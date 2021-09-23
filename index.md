@@ -19,7 +19,7 @@ Hier geht es zur [Homepage](https://www.staff.hs-mittweida.de/~wuenschi) von Rö
 [Kapitel-8](#kapitel-8-unser-dna-als-glaskugel) /
 [Kapitel-9](#kapitel-9-künstliche-gene-und-organismen) /
 [Kapitel-10](#kapitel-10-künstliche-intelligenz-und-echte-erkenntnisse) /
-[Kapitel-11](#kapitel-11-gentechnik-und-umweltschutz-geht-das) /
+[Kapitel-11](#kapitel-11-gentechnik-und-umweltschutz--geht-das) /
 [Kapitel-12](#kapitel-12-epigenetik-darwin-und-lamarck-vereint) /
 [Kapitel-13](#kapitel-13-gentherapien) /
 [Kapitel-14](#kapitel-14-wie-transhumanisten-uns-für-die-zukunft-wappnen-wollen) /
