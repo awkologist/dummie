@@ -8,7 +8,24 @@ Hier geht es zur [Homepage](https://www.staff.hs-mittweida.de/~wuenschi) von Rö
 
 ## Literaturliste
 
-[Einleitung](#einleitung) / [Kapitel 1](#kapitel-1-die-welt-der-gene) / [Kapitel 2](#kapitel-2-von-der-vererbung-zur-quantitativen-genetik) 
+[Einleitung](#einleitung) / 
+[Kapitel 1](#kapitel-1-die-welt-der-gene) / 
+[Kapitel-2](#kapitel-2-von-der-vererbung-zur-quantitativen-genetik) /
+[Kapitel-3](#kapitel-3-vom-gen-übers-genom-zum-ich) /
+[Kapitel-4](#kapitel-4-safety-first-gentechnik-und-gesetze) /
+[Kapitel-5](#kapitel-5-drei-gene-verändern-die-welt) /
+[Kapitel-6](#kapitel-6-bändigung-des-zufalls) /
+[Kapitel-7](#kapitel-7-dolly-war-kein-clown) /
+[Kapitel-8](#kapitel-8-unser-dna-als-glaskugel) /
+[Kapitel-9](#kapitel-9-künstliche-gene-und-organismen) /
+[Kapitel-10](#kapitel-10-künstliche-intelligenz-und-echte-erkenntnisse) /
+[Kapitel-11](#kapitel-11-gentechnik-und-umweltschutz-geht-das) /
+[Kapitel-12](#kapitel-12-epigenetik-darwin-und-lamarck-vereint) /
+[Kapitel-13](#kapitel-13-gentherapien) /
+[Kapitel-14](#kapitel-14-wie-transhumanisten-uns-für-die-zukunft-wappnen-wollen) /
+[Kapitel-15](#kapitel-15-coronavirus-wenn-negativ-positiv-ist) /
+[Kapitel-16](#kapitel-16-zehn-innovative-methoden-im-bereich-der-bio-und-gentechnologie) /
+
 
 ### Einleitung
 
@@ -137,7 +154,7 @@ Hier geht es zur [Homepage](https://www.staff.hs-mittweida.de/~wuenschi) von Rö
 * _Ploetz A_ (1895) **Grundlinien einer Rassen-Hygiene: Die Tüchtigkeit unsrer Rasse und der Schutz der Schwachen: Ein Versuch über Rassenhygiene und ihr Verhältniss zu den humanen Idealen, besonders zum Socialismus**. Fischer
 
 
-### Kapitel 3 – Vom Gen über’s Genom zum Ich
+### Kapitel 3: Vom Gen über’s Genom zum Ich
 
 * _Slonim N_, _Bilu Y_ _et&nbsp;al._ (2021) **An autonomous debating system**. Nature 591:379-384, doi: [10.1038/s41586-021-03215-w](https://doi.org/10.1038/s41586-021-03215-w)
 
@@ -233,7 +250,7 @@ Hier geht es zur [Homepage](https://www.staff.hs-mittweida.de/~wuenschi) von Rö
 * &#8212; (1975) **Summary statement of the Asilomar conference on recombinant DNA molecules.** Proc Natl Acad Sci USA 72:1981-1984, doi: [10.1073/pnas.72.6.1981](https://doi.org/10.1073/pnas.72.6.1981)
 
 
-### Kapitel 5 – Drei Gene verändern die Welt
+### Kapitel 5: Drei Gene verändern die Welt
 
 * _Suttle CA_ (2005) **Viruses in the sea**. Nature 437:356-361, doi: [10.1038/nature04160](https://doi.org/10.1038/nature04160)
 
@@ -322,7 +339,7 @@ Hier geht es zur [Homepage](https://www.staff.hs-mittweida.de/~wuenschi) von Rö
 * _Nuñez JK_, _Chen J_ _et&nbsp;al._ (2021) **Genome-wide programmable transcriptional memory by CRISPR-based epigenome editing**. Cell doi: [10.1016/j.cell.2021.03.025](https://doi.org/10.1016/j.cell.2021.03.025)
 
 
-### Kapitel 6 – Bändigung des Zufalls
+### Kapitel 6: Bändigung des Zufalls
 
 * _Mishra R_ (Editor) (2012) **Mutagenesis**. InTech, doi: [10.5772/2937](https://doi.org/10.5772/2937)
 
@@ -339,7 +356,7 @@ Hier geht es zur [Homepage](https://www.staff.hs-mittweida.de/~wuenschi) von Rö
 * _Hutchison C_, _Phillips S_ _et&nbsp;al._ (1978) **Mutagenesis at a specific position in a DNA sequence.** Journal of Biological Chemistry 253:6551-6560, doi: [10.1016/s0021-9258(19)46967-6](https://doi.org/10.1016/s0021-9258(19)46967-6)
 
 
-### Kapitel 7 – Dolly war kein Clown
+### Kapitel 7: Dolly war kein Clown
 
 * _Booth W_, _Smith CF_ _et&nbsp;al._ (2012) **Facultative parthenogenesis discovered in wild vertebrates**. Biol Lett 8:983-985, doi: [10.1098/rsbl.2012.0666](https://doi.org/10.1098/rsbl.2012.0666)
 
@@ -374,7 +391,7 @@ Hier geht es zur [Homepage](https://www.staff.hs-mittweida.de/~wuenschi) von Rö
 * _Takahashi K_ & _Yamanaka S_ (2006) **Induction of Pluripotent Stem Cells from Mouse Embryonic and Adult Fibroblast Cultures by Defined Factors**. Cell 126:663-676, doi: [10.1016/j.cell.2006.07.024](https://doi.org/10.1016/j.cell.2006.07.024)
 
 
-### Kapitel 8 – Unser DNA als Glaskugel
+### Kapitel 8: Unser DNA als Glaskugel
 
 * _Zerjal T_, _Xue Y_ _et&nbsp;al._ (2003) **The Genetic Legacy of the Mongols**. The American Journal of Human Genetics 72:717-721, doi: [10.1086/367774](https://doi.org/10.1086/367774)
 
@@ -511,7 +528,7 @@ Hier geht es zur [Homepage](https://www.staff.hs-mittweida.de/~wuenschi) von Rö
 * _Townsend P_, **Dna's twist to the right is not to be meddled with, so let's lose the lefties**. Zugegriffen unter [Internetlink](https://magazine.ucsc.edu/2020/02/beating-crime-by-a-hair/), zugegriffen am 19/03/21
 
 
-### Kapitel 9 – Künstliche Gene und Organismen
+### Kapitel 9: Künstliche Gene und Organismen
 
 * _Ro DK_, _Paradise EM_ _et&nbsp;al._ (2006) **Production of the antimalarial drug precursor artemisinic acid in engineered yeast**. Nature 440:940-943, doi: [10.1038/nature04640](https://doi.org/10.1038/nature04640)
 
@@ -560,7 +577,7 @@ Hier geht es zur [Homepage](https://www.staff.hs-mittweida.de/~wuenschi) von Rö
 * _Wright DWM_ (2018) **Cloning animals for tourism in the year 2070**. Futures 95:58-75, doi: [10.1016/j.futures.2017.10.002](https://doi.org/10.1016/j.futures.2017.10.002)
 
 
-### Kapitel 10 – Künstliche Intelligenz und echte Erkenntnisse
+### Kapitel 10: Künstliche Intelligenz und echte Erkenntnisse
 
 * _Bycroft C_, _Freeman C_ _et&nbsp;al._ (2018) **The UK Biobank resource with deep phenotyping and genomic data**. Nature 562:203-209, doi: [10.1038/s41586-018-0579-z](https://doi.org/10.1038/s41586-018-0579-z)
 
@@ -579,7 +596,7 @@ Hier geht es zur [Homepage](https://www.staff.hs-mittweida.de/~wuenschi) von Rö
 * _Silver D_, _Hubert T_ _et&nbsp;al._ (2018) **A general reinforcement learning algorithm that masters chess, shogi, and Go through self-play**. Science 362:1140-1144, doi: [10.1126/science.aar6404](https://doi.org/10.1126/science.aar6404)
 
 
-### Kapitel 11 – Gentechnik und Umweltschutz – geht das?
+### Kapitel 11: Gentechnik und Umweltschutz – geht das?
 
 * _Crutzen P_ & _Stoermer E_ (2000) **The Anthropocene**. Global Change Newsl 41:17-18
 
@@ -630,7 +647,7 @@ Hier geht es zur [Homepage](https://www.staff.hs-mittweida.de/~wuenschi) von Rö
 * _Power ME_ (2021) **Synthetic threads through the web of life**. Proc Natl Acad Sci USA 118:e2004833118, doi: [10.1073/pnas.2004833118](https://doi.org/10.1073/pnas.2004833118)
 
 
-### Kapitel 12 – Epigenetik: Darwin und Lamarck vereint
+### Kapitel 12: Epigenetik: Darwin und Lamarck vereint
 
 * _Heard E_ & _Martienssen RA_ (2014) **Transgenerational Epigenetic Inheritance: Myths and Mechanisms**. Cell 157:95-109, doi: [10.1016/j.cell.2014.02.045](https://doi.org/10.1016/j.cell.2014.02.045)
 
@@ -687,7 +704,7 @@ Hier geht es zur [Homepage](https://www.staff.hs-mittweida.de/~wuenschi) von Rö
 * _Lu Y_, _Brommer B_ _et&nbsp;al._ (2020) **Reprogramming to recover youthful epigenetic information and restore vision**. Nature 588:124-129, doi: [10.1038/s41586-020-2975-4](https://doi.org/10.1038/s41586-020-2975-4)
 
 
-### Kapitel 13 – Gentherapien
+### Kapitel 13: Gentherapien
 
 * _Abbott A_ (1992) **German state unexpectedly approves first gene trials**. Nature 360:702-702, doi: [10.1038/360702a0](https://doi.org/10.1038/360702a0)
 
@@ -718,7 +735,7 @@ Hier geht es zur [Homepage](https://www.staff.hs-mittweida.de/~wuenschi) von Rö
 * _Stephens JC_, _Reich DE_ _et&nbsp;al._ (1998) **Dating the Origin of the CCR5-&Delta;32 AIDS-Resistance Allele by the Coalescence of Haplotypes**. The American Journal of Human Genetics 62:1507-1515, doi: [10.1086/301867](https://doi.org/10.1086/301867)
 
 
-### Kapitel 14 – Wie Transhumanisten uns für die Zukunft wappnen (wollen)
+### Kapitel 14: Wie Transhumanisten uns für die Zukunft wappnen (wollen)
 
 * _Wünschiers R_ (2016) **Über die Modernisierung des Menschen.** In: Modernes Leben – Leben in der Moderne, 123-145, Springer Fachmedien Wiesbaden, doi: [10.1007/978-3-658-13752-6_9](https://doi.org/10.1007/978-3-658-13752-6_9)
 
@@ -743,7 +760,7 @@ Hier geht es zur [Homepage](https://www.staff.hs-mittweida.de/~wuenschi) von Rö
 * _Smalley E_ (2018) **FDA warns public of dangers of DIY gene therapy**. Nat Biotechnol 36:119-120, doi: [10.1038/nbt0218-119](https://doi.org/10.1038/nbt0218-119)
 
 
-### Kapitel 15 – Coronavirus -- Wenn »negativ« positiv ist
+### Kapitel 15: Coronavirus -- Wenn »negativ« positiv ist
 
 * _Lofgren ET_ & _Fefferman NH_ (2007) **The untapped potential of virtual game worlds to shed light on real world epidemics**. The Lancet Infectious Diseases 7:625-629, doi: [10.1016/s1473-3099(07)70212-8](https://doi.org/10.1016/s1473-3099(07)70212-8)
 
@@ -872,7 +889,7 @@ Hier geht es zur [Homepage](https://www.staff.hs-mittweida.de/~wuenschi) von Rö
 * _Rhea EM_, _Logsdon AF_ _et&nbsp;al._ (2020) **The S1 protein of SARS-CoV-2 crosses the blood-brain barrier in mice**. Nature Neuroscience doi: [10.1038/s41593-020-00771-8](https://doi.org/10.1038/s41593-020-00771-8)
 
 
-### Kapitel 16 – Zehn innovative Methoden im Bereich der Bio- und Gentechnologie
+### Kapitel 16: Zehn innovative Methoden im Bereich der Bio- und Gentechnologie
 
 * _Editorial_ (2021) **Method of the year 2020: Spatially resolved transcriptomics**. Nature Methods 18:1-1, doi: [10.1038/s41592-020-01042-x](https://doi.org/10.1038/s41592-020-01042-x)
 
