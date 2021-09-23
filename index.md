@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+# Allgemeinbildung Gene, Genetik und Gentechnik für Dummies
+
+## Autorenwebseite
+
+## Literaturliste
 
 You can use the [editor on GitHub](https://github.com/awkologist/dummie/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
