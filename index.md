@@ -8,7 +8,7 @@ Hier geht es zur [Homepage](https://www.staff.hs-mittweida.de/~wuenschi) von Rö
 
 ## Literaturliste
 
-[Einleitung](#einleitung) | [Kapitel 1](#kapitel-1-die-welt-der-gene) | [Kapitel 2](#kapitel-2-von-der-vererbung-zur-quantitativen-genetik) 
+[Einleitung](#einleitung) / [Kapitel 1](#kapitel-1-die-welt-der-gene) / [Kapitel 2](#kapitel-2-von-der-vererbung-zur-quantitativen-genetik) 
 
 ### Einleitung
 
