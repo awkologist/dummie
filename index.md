@@ -1,10 +1,12 @@
 # Allgemeinbildung Gene, Genetik und Gentechnik für Dummies
 
-[Literatur](#literaturliste)
+Diese Seite enthält die Literaturreferenzen zu den einzelnen Kapiteln. Zudem werden hier [Fehler](#errata) gesammelt.
 
-## Autorenwebseite
+## Autoren- und Buchwebseite
 
 Hier geht es zur [Homepage](https://www.staff.hs-mittweida.de/~wuenschi) von Röbbe Wünschiers.
+
+Und hier zur [Buchhomepage](https://www.wiley-vch.de/de/fachgebiete/naturwissenschaften/allgemeinbildung-gene-genetik-und-gentechnik-fuer-dummies-978-3-527-71746-0).
 
 ## Literaturliste
 
@@ -918,3 +920,6 @@ Hier geht es zur [Homepage](https://www.staff.hs-mittweida.de/~wuenschi) von Rö
 * _Editorial_ (2010) **Method of the year 2010**. Nature Methods 8:1-1, doi: [10.1038/nmeth.f.321](https://doi.org/10.1038/nmeth.f.321)
 <br>
 
+## Errata
+
+  * noch keine :-)
