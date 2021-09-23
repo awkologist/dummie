@@ -23,8 +23,8 @@ Hier geht es zur [Homepage](https://www.staff.hs-mittweida.de/~wuenschi) von Rö
 [Kapitel-12](#kapitel-12-epigenetik-darwin-und-lamarck-vereint) /
 [Kapitel-13](#kapitel-13-gentherapien) /
 [Kapitel-14](#kapitel-14-wie-transhumanisten-uns-für-die-zukunft-wappnen-wollen) /
-[Kapitel-15](#kapitel-15-coronavirus-wenn-negativ-positiv-ist) /
-[Kapitel-16](#kapitel-16-zehn-innovative-methoden-im-bereich-der-bio-und-gentechnologie) /
+[Kapitel-15](#kapitel-15-coronavirus--wenn-negativ-positiv-ist) /
+[Kapitel-16](#kapitel-16-zehn-innovative-methoden-im-bereich-der-bio--und-gentechnologie) /
 
 
 ### Einleitung
@@ -243,7 +243,7 @@ Hier geht es zur [Homepage](https://www.staff.hs-mittweida.de/~wuenschi) von Rö
 * _Harrison CGA_ & _Funnell BM_ (1964) **Relationship of Palaeomagnetic Reversals and Micropalaeontology in Two Late Caenozoic Cores from the Pacific Ocean**. Nature 204:566-566, doi: [10.1038/204566a0](https://doi.org/10.1038/204566a0)
 
 
-### Kapitel 4 – Safety First: Gentechnik und Gesetze
+### Kapitel 4: Safety First: Gentechnik und Gesetze
 
 * _Berg P_, _Baltimore D_ _et&nbsp;al._ (1974) **Potential Biohazards of Recombinant DNA Molecules**. Science 185:303-303, doi: [10.1126/science.185.4148.303](https://doi.org/10.1126/science.185.4148.303)
 
@@ -760,7 +760,7 @@ Hier geht es zur [Homepage](https://www.staff.hs-mittweida.de/~wuenschi) von Rö
 * _Smalley E_ (2018) **FDA warns public of dangers of DIY gene therapy**. Nat Biotechnol 36:119-120, doi: [10.1038/nbt0218-119](https://doi.org/10.1038/nbt0218-119)
 
 
-### Kapitel 15: Coronavirus -- Wenn »negativ« positiv ist
+### Kapitel 15: Coronavirus – Wenn »negativ« positiv ist
 
 * _Lofgren ET_ & _Fefferman NH_ (2007) **The untapped potential of virtual game worlds to shed light on real world epidemics**. The Lancet Infectious Diseases 7:625-629, doi: [10.1016/s1473-3099(07)70212-8](https://doi.org/10.1016/s1473-3099(07)70212-8)
 
