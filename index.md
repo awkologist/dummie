@@ -28,6 +28,8 @@ Und hier zur [Buchhomepage](https://www.wiley-vch.de/de/fachgebiete/naturwissens
 [Kapitel-15](#kapitel-15-coronavirus--wenn-negativ-positiv-ist) /
 [Kapitel-16](#kapitel-16-zehn-innovative-methoden-im-bereich-der-bio--und-gentechnologie) /
 
+<details>
+  <summary>Einleitung</summary>
 
 ### Einleitung
 
@@ -46,7 +48,11 @@ Und hier zur [Buchhomepage](https://www.wiley-vch.de/de/fachgebiete/naturwissens
 * _Küntzel K_ (2019) **Nachhaltig & ökologisch Leben für Dummies**. John Wiley & Sons, Incorporated, Newark, ISBN 978-3-527-82178-5
 
 * _NASA_, **Images on the golden record**. Zugegriffen unter [Internetlink](https://voyager.jpl.nasa.gov/golden-record/whats-on-the-record/images/), zugegriffen am 19/01/21
+</details>
 
+
+<details>
+  <summary>Kapitel 1: Die Welt der Gene</summary>
 
 ### Kapitel 1: Die Welt der Gene
 
@@ -131,6 +137,11 @@ Und hier zur [Buchhomepage](https://www.wiley-vch.de/de/fachgebiete/naturwissens
 * _Wolf AB_, _Caselli RJ_ _et&nbsp;al._ (2013) **APOE and neuroenergetics: An emerging paradigm in Alzheimers disease**. Neurobiology of Aging 34:1007-1017, doi: [10.1016/j.neurobiolaging.2012.10.011](https://doi.org/10.1016/j.neurobiolaging.2012.10.011)
 
 * _Vilarrasa-Blasi R_, _Soler-Vila P_ _et&nbsp;al._ (2021) **Dynamics of genome architecture and chromatin function during human B cell differentiation and neoplastic transformation**. Nat Commun 12, doi: [10.1038/s41467-020-20849-y](https://doi.org/10.1038/s41467-020-20849-y)
+</details>
+
+
+<details>
+  <summary>Kapitel 2: Von der Vererbung zur quantitativen Genetik</summary>
 
 
 ### Kapitel 2: Von der Vererbung zur quantitativen Genetik
@@ -154,7 +165,7 @@ Und hier zur [Buchhomepage](https://www.wiley-vch.de/de/fachgebiete/naturwissens
 * _Galton F_ (1883) **Inquiries into human faculty and its development.** MacMillan Co, doi: [10.1037/14178-000](https://doi.org/10.1037/14178-000)
 
 * _Ploetz A_ (1895) **Grundlinien einer Rassen-Hygiene: Die Tüchtigkeit unsrer Rasse und der Schutz der Schwachen: Ein Versuch über Rassenhygiene und ihr Verhältniss zu den humanen Idealen, besonders zum Socialismus**. Fischer
-
+</details>
 
 ### Kapitel 3: Vom Gen über’s Genom zum Ich
 
