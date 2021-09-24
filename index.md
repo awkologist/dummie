@@ -7,6 +7,8 @@ Diese Seite enthält die [Literaturreferenzen](#literaturliste) zu den einzelnen
   Wie weit darf oder muss der Einsatz von Gentechnik gehen? Angesichts von Klimakrisen und dem Rückgang der biologischen Vielfalt müssen wir differenzierter auf neue Techniken schauen. Viele sagen, dass dies die Aufgabe der Experten sei, doch mit der Entdeckung der Genschere CRISPR/Cas rückt die Gentechnik in den Entscheidungsalltag eines jeden Einzelnen. Diagnostik, Kinderwunsch, Gentherapie? Innerhalb des gesetzlichen Rahmens muss diese Entscheidungen jeder selbst treffen. Röbbie Wünschier bietet Ihnen mit seinem Buch "Allgemeinbildung Gene, Genetik und Gentechnik für Dummies" eine neutrale Einführung in die Gentechnik und deren Bedeutung für Ihren Lebensalltag. Die Debatte um die Anwendung der Gentechnik spaltet die Gesellschaft, doch die Wichtigkeit dieser Debatte ist unumgänglich. Lernen Sie mehr über dieses spannende Thema und bilden Sie sich eine eigene Meinung.
   </details>
 
+<br>
+
 ## Autoren- und Buchwebseite
 
 Hier geht es zur [Homepage](https://www.staff.hs-mittweida.de/~wuenschi) von Röbbe Wünschiers.
@@ -928,6 +930,7 @@ Nachfolgend ist die verwendete Literatur kapitelweise aufgeführt. Klicken Sie d
 </details>
 
 <br>
+  
 ## Errata
 
   * noch keine :-)
