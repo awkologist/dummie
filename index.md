@@ -54,8 +54,6 @@ Und hier zur [Buchhomepage](https://www.wiley-vch.de/de/fachgebiete/naturwissens
 <details>
   <summary>Kapitel 1: Die Welt der Gene</summary>
 
-### Kapitel 1: Die Welt der Gene
-
 * _Chargaff E_ (2003) **Stimmen im Labyrinth: Drei Dialoge über die Natur und ihre Erforschung**. Klett-Cotta, Stuttgart, ISBN 978-3608935806
 
 * _Watson JD_ & _Crick FHC_ (1953) **Molecular Structure of Nucleic Acids: A Structure for Deoxyribose Nucleic Acid**. Nature 171:737-738, doi: [10.1038/171737a0](https://doi.org/10.1038/171737a0)
