@@ -143,7 +143,6 @@ Und hier zur [Buchhomepage](https://www.wiley-vch.de/de/fachgebiete/naturwissens
 <details>
   <summary>Kapitel 2: Von der Vererbung zur quantitativen Genetik</summary>
 
-
 ### Kapitel 2: Von der Vererbung zur quantitativen Genetik
 
 * _Szabó A_ (2017) **Ursprung des Begriffs Genetik und seine Verwendung vor und nach Mendel**. Nova Acta Leopoldina 65-79
