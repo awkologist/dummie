@@ -15,6 +15,7 @@ Nachfolgend ist die verwendete Literatur kapitelweise aufgeführt. Klicken Sie d
 <details>
   <summary>Einleitung</summary>
 
+
 * _Rozenblit L_ & _Keil F_ (2002) **The misunderstood limits of folk science: An illusion of explanatory depth**. Cognitive Science 26:521-562, doi: [10.1207/s15516709cog2605_1](https://doi.org/10.1207/s15516709cog2605_1)
 
 * _Kruger J_ & _Dunning D_ (1999) **Unskilled and unaware of it: How difficulties in recognizing one's own incompetence lead to inflated self-assessments.** Journal of Personality and Social Psychology 77:1121-1134, doi: [10.1037/0022-3514.77.6.1121](https://doi.org/10.1037/0022-3514.77.6.1121)
@@ -918,11 +919,10 @@ Nachfolgend ist die verwendete Literatur kapitelweise aufgeführt. Klicken Sie d
 * &#8212; (2011) **Method of the year 2011**. Nature Methods 9:1-1, doi: [10.1038/nmeth.1852](https://doi.org/10.1038/nmeth.1852)
 
 * _Sahel JA_, _Boulanger-Scemama E_ _et&nbsp;al._ (2021) **Partial recovery of visual function in a blind patient after optogenetic therapy**. Nature Medicine 27:1223-1229, doi: [10.1038/s41591-021-01351-4](https://doi.org/10.1038/s41591-021-01351-4)
-</details>
-
 
 * _Editorial_ (2010) **Method of the year 2010**. Nature Methods 8:1-1, doi: [10.1038/nmeth.f.321](https://doi.org/10.1038/nmeth.f.321)
-<br>
+</details>
+
 
 ## Errata
 
