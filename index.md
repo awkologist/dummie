@@ -10,28 +10,10 @@ Und hier zur [Buchhomepage](https://www.wiley-vch.de/de/fachgebiete/naturwissens
 
 ## Literaturliste
 
-[Einleitung](#einleitung) / 
-[Kapitel 1](#kapitel-1-die-welt-der-gene) / 
-[Kapitel-2](#kapitel-2-von-der-vererbung-zur-quantitativen-genetik) /
-[Kapitel-3](#kapitel-3-vom-gen-übers-genom-zum-ich) /
-[Kapitel-4](#kapitel-4-safety-first-gentechnik-und-gesetze) /
-[Kapitel-5](#kapitel-5-drei-gene-verändern-die-welt) /
-[Kapitel-6](#kapitel-6-bändigung-des-zufalls) /
-[Kapitel-7](#kapitel-7-dolly-war-kein-clown) /
-[Kapitel-8](#kapitel-8-unser-dna-als-glaskugel) /
-[Kapitel-9](#kapitel-9-künstliche-gene-und-organismen) /
-[Kapitel-10](#kapitel-10-künstliche-intelligenz-und-echte-erkenntnisse) /
-[Kapitel-11](#kapitel-11-gentechnik-und-umweltschutz--geht-das) /
-[Kapitel-12](#kapitel-12-epigenetik-darwin-und-lamarck-vereint) /
-[Kapitel-13](#kapitel-13-gentherapien) /
-[Kapitel-14](#kapitel-14-wie-transhumanisten-uns-für-die-zukunft-wappnen-wollen) /
-[Kapitel-15](#kapitel-15-coronavirus--wenn-negativ-positiv-ist) /
-[Kapitel-16](#kapitel-16-zehn-innovative-methoden-im-bereich-der-bio--und-gentechnologie) /
+Nachfolgend ist die verwendete Literatur kapitelweise aufgeführt. Klicken Sie den Kapitelnamen, um die Liste aufzublättern.
 
 <details>
   <summary>Einleitung</summary>
-
-### Einleitung
 
 * _Rozenblit L_ & _Keil F_ (2002) **The misunderstood limits of folk science: An illusion of explanatory depth**. Cognitive Science 26:521-562, doi: [10.1207/s15516709cog2605_1](https://doi.org/10.1207/s15516709cog2605_1)
 
@@ -141,8 +123,6 @@ Und hier zur [Buchhomepage](https://www.wiley-vch.de/de/fachgebiete/naturwissens
 <details>
   <summary>Kapitel 2: Von der Vererbung zur quantitativen Genetik</summary>
 
-### Kapitel 2: Von der Vererbung zur quantitativen Genetik
-
 * _Szabó A_ (2017) **Ursprung des Begriffs Genetik und seine Verwendung vor und nach Mendel**. Nova Acta Leopoldina 65-79
 
 * _Ellis TN_, _Hofer JM_ _et&nbsp;al._ (2011) **Mendel, 150 years on**. Trends in Plant Science 16:590-596, doi: [10.1016/j.tplants.2011.06.006](https://doi.org/10.1016/j.tplants.2011.06.006)
@@ -164,7 +144,8 @@ Und hier zur [Buchhomepage](https://www.wiley-vch.de/de/fachgebiete/naturwissens
 * _Ploetz A_ (1895) **Grundlinien einer Rassen-Hygiene: Die Tüchtigkeit unsrer Rasse und der Schutz der Schwachen: Ein Versuch über Rassenhygiene und ihr Verhältniss zu den humanen Idealen, besonders zum Socialismus**. Fischer
 </details>
 
-### Kapitel 3: Vom Gen über’s Genom zum Ich
+<details>
+  <summary>Kapitel 3: Vom Gen über’s Genom zum Ich</summary>
 
 * _Slonim N_, _Bilu Y_ _et&nbsp;al._ (2021) **An autonomous debating system**. Nature 591:379-384, doi: [10.1038/s41586-021-03215-w](https://doi.org/10.1038/s41586-021-03215-w)
 
@@ -251,16 +232,18 @@ Und hier zur [Buchhomepage](https://www.wiley-vch.de/de/fachgebiete/naturwissens
 * _Brown FA_ & _Chow CS_ (1973) **Interorganismic and Environmental Influences Through Extremely Weak Electromagnetic Fields**. The Biological Bulletin 144:437-461, doi: [10.2307/1540299](https://doi.org/10.2307/1540299)
 
 * _Harrison CGA_ & _Funnell BM_ (1964) **Relationship of Palaeomagnetic Reversals and Micropalaeontology in Two Late Caenozoic Cores from the Pacific Ocean**. Nature 204:566-566, doi: [10.1038/204566a0](https://doi.org/10.1038/204566a0)
+</details>
 
-
-### Kapitel 4: Safety First: Gentechnik und Gesetze
+<details>
+  <summary>Kapitel 4: Safety First: Gentechnik und Gesetze</summary>
 
 * _Berg P_, _Baltimore D_ _et&nbsp;al._ (1974) **Potential Biohazards of Recombinant DNA Molecules**. Science 185:303-303, doi: [10.1126/science.185.4148.303](https://doi.org/10.1126/science.185.4148.303)
 
 * &#8212; (1975) **Summary statement of the Asilomar conference on recombinant DNA molecules.** Proc Natl Acad Sci USA 72:1981-1984, doi: [10.1073/pnas.72.6.1981](https://doi.org/10.1073/pnas.72.6.1981)
+</details>
 
-
-### Kapitel 5: Drei Gene verändern die Welt
+<details>
+  <summary>Kapitel 5: Drei Gene verändern die Welt</summary>
 
 * _Suttle CA_ (2005) **Viruses in the sea**. Nature 437:356-361, doi: [10.1038/nature04160](https://doi.org/10.1038/nature04160)
 
@@ -347,9 +330,10 @@ Und hier zur [Buchhomepage](https://www.wiley-vch.de/de/fachgebiete/naturwissens
 * _Porto EM_, _Komor AC_ _et&nbsp;al._ (2020) **Base editing: Advances and therapeutic opportunities**. Nature Reviews Drug Discovery 19:839-859, doi: [10.1038/s41573-020-0084-6](https://doi.org/10.1038/s41573-020-0084-6)
 
 * _Nuñez JK_, _Chen J_ _et&nbsp;al._ (2021) **Genome-wide programmable transcriptional memory by CRISPR-based epigenome editing**. Cell doi: [10.1016/j.cell.2021.03.025](https://doi.org/10.1016/j.cell.2021.03.025)
+</details>
 
-
-### Kapitel 6: Bändigung des Zufalls
+<details>
+  <summary>Kapitel 6: Bändigung des Zufalls</summary>
 
 * _Mishra R_ (Editor) (2012) **Mutagenesis**. InTech, doi: [10.5772/2937](https://doi.org/10.5772/2937)
 
@@ -364,9 +348,10 @@ Und hier zur [Buchhomepage](https://www.wiley-vch.de/de/fachgebiete/naturwissens
 * _Murray MJ_ & _Todd WA_ (1972) **Registration of todd's mitcham peppermint 1 (reg. no. 1)**. Crop Sci 12:128-128, doi: [10.2135/cropsci1972.0011183x001200010056x](https://doi.org/10.2135/cropsci1972.0011183x001200010056x)
 
 * _Hutchison C_, _Phillips S_ _et&nbsp;al._ (1978) **Mutagenesis at a specific position in a DNA sequence.** Journal of Biological Chemistry 253:6551-6560, doi: [10.1016/s0021-9258(19)46967-6](https://doi.org/10.1016/s0021-9258(19)46967-6)
+</details>
 
-
-### Kapitel 7: Dolly war kein Clown
+<details>
+  <summary>Kapitel 7: Dolly war kein Clown</summary>
 
 * _Booth W_, _Smith CF_ _et&nbsp;al._ (2012) **Facultative parthenogenesis discovered in wild vertebrates**. Biol Lett 8:983-985, doi: [10.1098/rsbl.2012.0666](https://doi.org/10.1098/rsbl.2012.0666)
 
@@ -399,9 +384,10 @@ Und hier zur [Buchhomepage](https://www.wiley-vch.de/de/fachgebiete/naturwissens
 * _Liu Z_, _Cai Y_ _et&nbsp;al._ (2018) **Cloning of Macaque Monkeys by Somatic Cell Nuclear Transfer**. Cell 172:881-887.e7, doi: [10.1016/j.cell.2018.01.020](https://doi.org/10.1016/j.cell.2018.01.020)
 
 * _Takahashi K_ & _Yamanaka S_ (2006) **Induction of Pluripotent Stem Cells from Mouse Embryonic and Adult Fibroblast Cultures by Defined Factors**. Cell 126:663-676, doi: [10.1016/j.cell.2006.07.024](https://doi.org/10.1016/j.cell.2006.07.024)
+</details>
 
-
-### Kapitel 8: Unser DNA als Glaskugel
+<details>
+  <summary>Kapitel 8: Unser DNA als Glaskugel</summary>
 
 * _Zerjal T_, _Xue Y_ _et&nbsp;al._ (2003) **The Genetic Legacy of the Mongols**. The American Journal of Human Genetics 72:717-721, doi: [10.1086/367774](https://doi.org/10.1086/367774)
 
@@ -536,9 +522,10 @@ Und hier zur [Buchhomepage](https://www.wiley-vch.de/de/fachgebiete/naturwissens
 * _Simcoe M_, _Valdes A_ _et&nbsp;al._ (2021) **Genome-wide association study in almost 195,000 individuals identifies 50 previously unidentified genetic loci for eye color**. Sci Adv 7:eabd1239, doi: [10.1126/sciadv.abd1239](https://doi.org/10.1126/sciadv.abd1239)
 
 * _Townsend P_, **Dna's twist to the right is not to be meddled with, so let's lose the lefties**. Zugegriffen unter [Internetlink](https://magazine.ucsc.edu/2020/02/beating-crime-by-a-hair/), zugegriffen am 19/03/21
+</details>
 
-
-### Kapitel 9: Künstliche Gene und Organismen
+<details>
+  <summary>Kapitel 9: Künstliche Gene und Organismen</summary>
 
 * _Ro DK_, _Paradise EM_ _et&nbsp;al._ (2006) **Production of the antimalarial drug precursor artemisinic acid in engineered yeast**. Nature 440:940-943, doi: [10.1038/nature04640](https://doi.org/10.1038/nature04640)
 
@@ -585,9 +572,10 @@ Und hier zur [Buchhomepage](https://www.wiley-vch.de/de/fachgebiete/naturwissens
 * _Griffin DK_, _Larkin DM_ & _O'Connor RE_ (2020) **Time lapse: A glimpse into prehistoric genomics**. European Journal of Medical Genetics 63:103640, doi: [10.1016/j.ejmg.2019.03.004](https://doi.org/10.1016/j.ejmg.2019.03.004)
 
 * _Wright DWM_ (2018) **Cloning animals for tourism in the year 2070**. Futures 95:58-75, doi: [10.1016/j.futures.2017.10.002](https://doi.org/10.1016/j.futures.2017.10.002)
+</details>
 
-
-### Kapitel 10: Künstliche Intelligenz und echte Erkenntnisse
+<details>
+  <summary>Kapitel 10: Künstliche Intelligenz und echte Erkenntnisse</summary>
 
 * _Bycroft C_, _Freeman C_ _et&nbsp;al._ (2018) **The UK Biobank resource with deep phenotyping and genomic data**. Nature 562:203-209, doi: [10.1038/s41586-018-0579-z](https://doi.org/10.1038/s41586-018-0579-z)
 
@@ -604,9 +592,10 @@ Und hier zur [Buchhomepage](https://www.wiley-vch.de/de/fachgebiete/naturwissens
 * _Silver D_, _Schrittwieser J_ _et&nbsp;al._ (2017) **Mastering the game of Go without human knowledge**. Nature 550:354-359, doi: [10.1038/nature24270](https://doi.org/10.1038/nature24270)
 
 * _Silver D_, _Hubert T_ _et&nbsp;al._ (2018) **A general reinforcement learning algorithm that masters chess, shogi, and Go through self-play**. Science 362:1140-1144, doi: [10.1126/science.aar6404](https://doi.org/10.1126/science.aar6404)
+</details>
 
-
-### Kapitel 11: Gentechnik und Umweltschutz – geht das?
+<details>
+  <summary>Kapitel 11: Gentechnik und Umweltschutz – geht das?</summary>
 
 * _Crutzen P_ & _Stoermer E_ (2000) **The Anthropocene**. Global Change Newsl 41:17-18
 
@@ -655,9 +644,10 @@ Und hier zur [Buchhomepage](https://www.wiley-vch.de/de/fachgebiete/naturwissens
 * _Polin LD_, _Liang H_ _et&nbsp;al._ (2005) **Agrobacterium-mediated transformation of American chestnut (Castanea dentata (Marsh.) Borkh.) somatic embryos**. Plant Cell Tiss Organ Cult 84:69-79, doi: [10.1007/s11240-005-9002-1](https://doi.org/10.1007/s11240-005-9002-1)
 
 * _Power ME_ (2021) **Synthetic threads through the web of life**. Proc Natl Acad Sci USA 118:e2004833118, doi: [10.1073/pnas.2004833118](https://doi.org/10.1073/pnas.2004833118)
+</details>
 
-
-### Kapitel 12: Epigenetik: Darwin und Lamarck vereint
+<details>
+  <summary>Kapitel 12: Epigenetik: Darwin und Lamarck vereint</summary>
 
 * _Heard E_ & _Martienssen RA_ (2014) **Transgenerational Epigenetic Inheritance: Myths and Mechanisms**. Cell 157:95-109, doi: [10.1016/j.cell.2014.02.045](https://doi.org/10.1016/j.cell.2014.02.045)
 
@@ -712,9 +702,10 @@ Und hier zur [Buchhomepage](https://www.wiley-vch.de/de/fachgebiete/naturwissens
 * _B DD_ (1930) **Degeneration and Regeneration of the Nervous System**. Nature 125:230-231, doi: [10.1038/125230a0](https://doi.org/10.1038/125230a0)
 
 * _Lu Y_, _Brommer B_ _et&nbsp;al._ (2020) **Reprogramming to recover youthful epigenetic information and restore vision**. Nature 588:124-129, doi: [10.1038/s41586-020-2975-4](https://doi.org/10.1038/s41586-020-2975-4)
+</details>
 
-
-### Kapitel 13: Gentherapien
+<details>
+  <summary>Kapitel 13: Gentherapien</summary>
 
 * _Abbott A_ (1992) **German state unexpectedly approves first gene trials**. Nature 360:702-702, doi: [10.1038/360702a0](https://doi.org/10.1038/360702a0)
 
@@ -743,9 +734,10 @@ Und hier zur [Buchhomepage](https://www.wiley-vch.de/de/fachgebiete/naturwissens
 * _Gupta RK_, _Abdul-Jawad S_ _et&nbsp;al._ (2019) **HIV-1 remission following CCR5&Delta;32 haematopoietic stem-cell transplantation**. Nature 568:244-248, doi: [10.1038/s41586-019-1027-4](https://doi.org/10.1038/s41586-019-1027-4)
 
 * _Stephens JC_, _Reich DE_ _et&nbsp;al._ (1998) **Dating the Origin of the CCR5-&Delta;32 AIDS-Resistance Allele by the Coalescence of Haplotypes**. The American Journal of Human Genetics 62:1507-1515, doi: [10.1086/301867](https://doi.org/10.1086/301867)
+</details>
 
-
-### Kapitel 14: Wie Transhumanisten uns für die Zukunft wappnen (wollen)
+<details>
+  <summary>Kapitel 14: Wie Transhumanisten uns für die Zukunft wappnen (wollen)</summary>
 
 * _Wünschiers R_ (2016) **Über die Modernisierung des Menschen.** In: Modernes Leben – Leben in der Moderne, 123-145, Springer Fachmedien Wiesbaden, doi: [10.1007/978-3-658-13752-6_9](https://doi.org/10.1007/978-3-658-13752-6_9)
 
@@ -768,9 +760,10 @@ Und hier zur [Buchhomepage](https://www.wiley-vch.de/de/fachgebiete/naturwissens
 * _Huang J_, _Kang BH_ _et&nbsp;al._ (2016) **Identification of a CD4-Binding-Site Antibody to HIV that Evolved Near-Pan Neutralization Breadth**. Immunity 45:1108-1121, doi: [10.1016/j.immuni.2016.10.027](https://doi.org/10.1016/j.immuni.2016.10.027)
 
 * _Smalley E_ (2018) **FDA warns public of dangers of DIY gene therapy**. Nat Biotechnol 36:119-120, doi: [10.1038/nbt0218-119](https://doi.org/10.1038/nbt0218-119)
+</details>
 
-
-### Kapitel 15: Coronavirus – Wenn »negativ« positiv ist
+<details>
+  <summary>Kapitel 15: Coronavirus – Wenn »negativ« positiv ist</summary>
 
 * _Lofgren ET_ & _Fefferman NH_ (2007) **The untapped potential of virtual game worlds to shed light on real world epidemics**. The Lancet Infectious Diseases 7:625-629, doi: [10.1016/s1473-3099(07)70212-8](https://doi.org/10.1016/s1473-3099(07)70212-8)
 
@@ -897,9 +890,10 @@ Und hier zur [Buchhomepage](https://www.wiley-vch.de/de/fachgebiete/naturwissens
 * _Arnold C_ (2020) **Could COVID delirium bring on dementia?** Nature 588:22-24, doi: [10.1038/d41586-020-03360-8](https://doi.org/10.1038/d41586-020-03360-8)
 
 * _Rhea EM_, _Logsdon AF_ _et&nbsp;al._ (2020) **The S1 protein of SARS-CoV-2 crosses the blood-brain barrier in mice**. Nature Neuroscience doi: [10.1038/s41593-020-00771-8](https://doi.org/10.1038/s41593-020-00771-8)
+</details>
 
-
-### Kapitel 16: Zehn innovative Methoden im Bereich der Bio- und Gentechnologie
+<details>
+  <summary>Kapitel 16: Zehn innovative Methoden im Bereich der Bio- und Gentechnologie</summary>
 
 * _Editorial_ (2021) **Method of the year 2020: Spatially resolved transcriptomics**. Nature Methods 18:1-1, doi: [10.1038/s41592-020-01042-x](https://doi.org/10.1038/s41592-020-01042-x)
 
@@ -924,6 +918,8 @@ Und hier zur [Buchhomepage](https://www.wiley-vch.de/de/fachgebiete/naturwissens
 * &#8212; (2011) **Method of the year 2011**. Nature Methods 9:1-1, doi: [10.1038/nmeth.1852](https://doi.org/10.1038/nmeth.1852)
 
 * _Sahel JA_, _Boulanger-Scemama E_ _et&nbsp;al._ (2021) **Partial recovery of visual function in a blind patient after optogenetic therapy**. Nature Medicine 27:1223-1229, doi: [10.1038/s41591-021-01351-4](https://doi.org/10.1038/s41591-021-01351-4)
+</details>
+
 
 * _Editorial_ (2010) **Method of the year 2010**. Nature Methods 8:1-1, doi: [10.1038/nmeth.f.321](https://doi.org/10.1038/nmeth.f.321)
 <br>
