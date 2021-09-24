@@ -923,7 +923,7 @@ Nachfolgend ist die verwendete Literatur kapitelweise aufgeführt. Klicken Sie d
 * _Editorial_ (2010) **Method of the year 2010**. Nature Methods 8:1-1, doi: [10.1038/nmeth.f.321](https://doi.org/10.1038/nmeth.f.321)
 </details>
 
-
+<br>
 ## Errata
 
   * noch keine :-)
