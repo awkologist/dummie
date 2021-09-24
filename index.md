@@ -11,7 +11,7 @@ Diese Seite enthält die [Literaturreferenzen](#literaturliste) zu den einzelnen
 
 ## Autoren- und Buchwebseite
 
-Hier geht es zur [Homepage](https://www.staff.hs-mittweida.de/~wuenschi) von Röbbe Wünschiers.
+Hier geht es zur [Homepage](https://www.staff.hs-mittweida.de/~wuenschi) von Röbbe Wünschiers [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/awkologist.svg?style=social&label=Follow%20%40awkologist)](https://twitter.com/awkologist).
 
 Und hier zur [Buchhomepage](https://www.wiley-vch.de/de/fachgebiete/naturwissenschaften/allgemeinbildung-gene-genetik-und-gentechnik-fuer-dummies-978-3-527-71746-0).
 
