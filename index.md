@@ -1,6 +1,11 @@
 # Allgemeinbildung Gene, Genetik und Gentechnik für Dummies
 
-Diese Seite enthält die Literaturreferenzen zu den einzelnen Kapiteln. Zudem werden hier [Fehler](#errata) gesammelt.
+Diese Seite enthält die [Literaturreferenzen](#literaturliste) zu den einzelnen Kapiteln. Zudem werden hier [Fehler](#errata) gesammelt. Worum geht es in dem Dummie-Buch?
+
+<details>
+  <summary>Zusammenfassung</summary>
+  Wie weit darf oder muss der Einsatz von Gentechnik gehen? Angesichts von Klimakrisen und dem Rückgang der biologischen Vielfalt müssen wir differenzierter auf neue Techniken schauen. Viele sagen, dass dies die Aufgabe der Experten sei, doch mit der Entdeckung der Genschere CRISPR/Cas rückt die Gentechnik in den Entscheidungsalltag eines jeden Einzelnen. Diagnostik, Kinderwunsch, Gentherapie? Innerhalb des gesetzlichen Rahmens muss diese Entscheidungen jeder selbst treffen. Röbbie Wünschier bietet Ihnen mit seinem Buch "Allgemeinbildung Gene, Genetik und Gentechnik für Dummies" eine neutrale Einführung in die Gentechnik und deren Bedeutung für Ihren Lebensalltag. Die Debatte um die Anwendung der Gentechnik spaltet die Gesellschaft, doch die Wichtigkeit dieser Debatte ist unumgänglich. Lernen Sie mehr über dieses spannende Thema und bilden Sie sich eine eigene Meinung.
+  </details>
 
 ## Autoren- und Buchwebseite
 
@@ -14,7 +19,6 @@ Nachfolgend ist die verwendete Literatur kapitelweise aufgeführt. Klicken Sie d
 
 <details>
   <summary>Einleitung</summary>
-
 
 * _Rozenblit L_ & _Keil F_ (2002) **The misunderstood limits of folk science: An illusion of explanatory depth**. Cognitive Science 26:521-562, doi: [10.1207/s15516709cog2605_1](https://doi.org/10.1207/s15516709cog2605_1)
 
