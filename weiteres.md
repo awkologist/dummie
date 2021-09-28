@@ -4,7 +4,7 @@ title: Bildgallerie
 permalink: /gallery/
 ---
 
-### Bildergallerie
+Klicken Sie auf eine Abbildung, um dass nächste Bild zu sehen. Alternativ können Sie auf die schwarzen Punkte klicken, um vorwärts und zurück zu navigieren.
 
 <style>
 .dummieAbb {display:none;}
@@ -22,12 +22,6 @@ permalink: /gallery/
 <b onclick="currentDiv(3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(4)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(5)">●</b> 
-
-<button onclick="currentDiv(1)">⦿</button> 
-<button onclick="currentDiv(2)">⦿</button> 
-<button onclick="currentDiv(3)">⦿</button> 
-<button onclick="currentDiv(4)">⦿</button> 
-<button onclick="currentDiv(5)">⦿</button> 
 </center>
 
 <script>
