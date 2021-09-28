@@ -6,4 +6,4 @@ permalink: /gallery/
 
 ### Bildergallerie
 
-{% include gallery.html folder="myfolder" %}
+{% include gallery.html folder="images" %}
