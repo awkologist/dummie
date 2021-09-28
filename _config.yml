@@ -61,5 +61,5 @@ plugins:
  - jekyll-feed
  - jekyll-seo-tag
 
-imagesurl: "/dummie/images/"
-thumbsurl: "/dummie/images/"
+imagesurl: "images/"
+thumbsurl: "images/"
