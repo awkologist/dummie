@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ► Errata
+title: Errata
 permalink: /errata/
 ---
 
