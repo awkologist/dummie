@@ -4,14 +4,6 @@ title: Bildgallerie
 permalink: /gallery/
 ---
 
-### Kapitel 1
+### Bildergallerie
 
-{% include gallery.html  gallery="1" %}
-
-### Kapitel 2
-
-{% include gallery.html  gallery="2" %}
-
-### Test
-
-{% include test.html%}
+{% include my-gallery.html folder="myfolder" %}
