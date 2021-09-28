@@ -10,9 +10,15 @@ title: Allgemeinbildung Gene, Genetik und Gentechnik für Dummies
 ---
 
 
-
-
-Diese Seite enthält die [Literaturreferenzen](literatur.md) zu den einzelnen Kapiteln. Zudem werden hier [Fehler](errata.md) gesammelt. Worum geht es in dem Dummie-Buch?
+<table>
+  <tr>
+    <td><img src="cover-dummie.png" alt="Buchdeckel" width="100"/></td>
+    <td></td>
+    <td>Diese Webseite enthält die <a href="literatur.md">Literaturreferenzen</a> zu den einzelnen Kapiteln. Zudem werden hier <a href="errata.md">Fehler</a>[Fehler](errata.md) gesammelt.</td>
+  </tr>
+ </table>
+ 
+Worum geht es in dem Dummie-Buch?
 
 <details>
   <summary>Zusammenfassung</summary>
