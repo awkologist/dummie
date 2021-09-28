@@ -10,9 +10,8 @@ title: Allgemeinbildung Gene, Genetik und Gentechnik für Dummies
 ---
 
 <style>
-table {
-   border: none;
-}
+table {border: none;}
+tr {border: none;}
 </style>
 <table>
   <tr>
