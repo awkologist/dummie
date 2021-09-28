@@ -10,14 +10,12 @@ permalink: /gallery/
 .dummieAbb {display:none;}
 </style>
 
-<img class="dummieAbb" src="/dummie/images/abb-dummies.001.png">
-<img class="dummieAbb" src="/dummie/images/abb-dummies.002.png">
-<img class="dummieAbb" src="/dummie/images/abb-dummies.003.png">
-<img class="dummieAbb" src="/dummie/images/abb-dummies.004.png">
-<img class="dummieAbb" src="/dummie/images/abb-dummies.005.png">
+<img class="dummieAbb" src="/dummie/images/abb-dummies.001.png" onclick="plusDivs(+1)">
+<img class="dummieAbb" src="/dummie/images/abb-dummies.002.png" onclick="plusDivs(+1)">
+<img class="dummieAbb" src="/dummie/images/abb-dummies.003.png" onclick="plusDivs(+1)">
+<img class="dummieAbb" src="/dummie/images/abb-dummies.004.png" onclick="plusDivs(+1)">
+<img class="dummieAbb" src="/dummie/images/abb-dummies.005.png" onclick="plusDivs(+1)">
 
-<button class="w3-button w3-display-left" onclick="plusDivs(-1)">&#10094;</button>
-<button class="w3-button w3-display-right" onclick="plusDivs(+1)">&#10095;</button>
 
 <script>
 var slideIndex = 1;
