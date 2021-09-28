@@ -2,7 +2,10 @@
 <br>
 <b>{{ site.baseurl }}</b>
 <br>
-<b>{{ url }}</b>
+<b>{{ page.galleries[include.gallery] }}</b>
+<br>
+<b>{{ page.galleries }}</b>
+
 
 {% assign rows = page.galleries[include.gallery] %}
 
