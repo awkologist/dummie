@@ -29,7 +29,7 @@ function plusDivs(n) {
 
 function showDivs(n) {
   var i;
-  var x = document.getElementsByClassName("mySlides");
+  var x = document.getElementsByClassName("dummieAbb");
   if (n > x.length) {slideIndex = 1} 
   if (n < 1) {slideIndex = x.length} ;
   for (i = 0; i < x.length; i++) {
@@ -39,5 +39,4 @@ function showDivs(n) {
 }
 </script>
 
-<img src="/dummie/images/abb-dummies2.gif" alt="Eineitung" width="600" class="responsive">
 
