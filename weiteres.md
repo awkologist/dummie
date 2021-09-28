@@ -11,3 +11,7 @@ permalink: /gallery/
 ### Kapitel 2
 
 {% include gallery.html  gallery=2 %}
+
+### Test
+
+{% include test.html%}
