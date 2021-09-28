@@ -6,7 +6,6 @@ permalink: /gallery/
 
 Klicken Sie auf eine Abbildung, um dass nächste Bild zu sehen. Alternativ können Sie auf die schwarzen Punkte klicken, um vorwärts und zurück zu navigieren.
 
-done
 
 <details>
   <summary>Einleitung</summary>
@@ -83,7 +82,7 @@ showDivs(1, 0);
 showDivs(1, 1);
 
 function currentDiv(n, no) {
-  showDivs(slideIndex = n, no);
+  showDivs(slideIndex[no] = n, no);
 }
 
 function plusDivs(n, no) {
