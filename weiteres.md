@@ -16,6 +16,13 @@ permalink: /gallery/
 <img class="dummieAbb" src="/dummie/images/abb-dummies.004.png" onclick="plusDivs(+1)">
 <img class="dummieAbb" src="/dummie/images/abb-dummies.005.png" onclick="plusDivs(+1)">
 
+<center>
+<button onclick="currentDiv(1)">⦿</button> 
+<button onclick="currentDiv(2)">⦿</button> 
+<button onclick="currentDiv(3)">⦿</button> 
+<button onclick="currentDiv(4)">⦿</button> 
+<button onclick="currentDiv(5)">⦿</button> 
+</center>
 
 <script>
 var slideIndex = 1;
@@ -23,6 +30,10 @@ showDivs(slideIndex);
 
 function plusDivs(n) {
   showDivs(slideIndex += n);
+}
+  
+function currentDiv(n) {
+  showDivs(slideIndex = n);
 }
 
 function showDivs(n) {
