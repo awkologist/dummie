@@ -9,7 +9,7 @@ Klicken Sie auf eine Abbildung, um dass nächste Bild zu sehen. Alternativ könn
 <details>
   <summary>Einleitung</summary>
 
-<center>
+<center><br>
 <b onclick="currentDiv(1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(2)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
@@ -41,7 +41,7 @@ Klicken Sie auf eine Abbildung, um dass nächste Bild zu sehen. Alternativ könn
 <details>
   <summary>**Kapitel 1**: text</summary>
 
-<center>
+<center><br><br>
 <b onclick="currentDiv(1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(2)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
