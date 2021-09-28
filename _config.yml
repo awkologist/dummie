@@ -1,11 +1,9 @@
-title: Your awesome title
-author:
-  name: GitHub User
-  email: your-email@domain.com
+title: Dummie
+author: Röbbe Wünschiers
+  name: awkologist
+  email: rw@biowasserstoff.de
 description: > # this means to ignore newlines until "show_excerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Literatur, Errata und mehr zu dem Dummie Allgemeinbildung Gene, Genetik und Gentechnik von Röbbe Wünschiers. 
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
@@ -16,17 +14,17 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: jekyllrb
-    github:  jekyll
+    twitter: awkologist
+    github:  awkologist
     # devto: jekyll
     # dribbble: jekyll
-    # facebook: jekyll
+    facebook: robbe.wunschiers
     # flickr:   jekyll
     # instagram: jekyll
     # linkedin: jekyll
     # pinterest: jekyll
     # youtube: jekyll
-    # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
+    youtube_channel: UCdRY5HJ0VBNVnw59Iz4tJuA
     # youtube_channel_name: CloudCannon
     # telegram: jekyll
     # googleplus: +jekyll
