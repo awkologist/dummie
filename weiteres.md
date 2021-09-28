@@ -17,10 +17,10 @@ permalink: /gallery/
 <img class="dummieAbb" src="/dummie/images/abb-dummies.005.png" onclick="plusDivs(+1)">
 
 <center>
-<b onclick="currentDiv(1)">● </b> 
-<b onclick="currentDiv(2)">● </b> 
-<b onclick="currentDiv(3)">● </b> 
-<b onclick="currentDiv(4)">● </b> 
+<b onclick="currentDiv(1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(2)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(4)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(5)">●</b> 
 
 <button onclick="currentDiv(1)">⦿</button> 
