@@ -37,6 +37,7 @@ Klicken Sie auf eine Abbildung, um dass nächste Bild zu sehen. Alternativ könn
 <img src="/dummie/images/abb-dummies.005.png" onclick="plusDivs(+1, 0)">
 <figcaption><b>Abb. 5: </b>Kapitel bla bla </figcaption>
 </figure>
+<br>
 </details>
 
 <details>
