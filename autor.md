@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Autor
-permalink: /about/
+title: Über den Autor
+permalink: /autor/
 ---
 
 Hier geht es zu meiner (Röbbe Wünschiers) [Homepage](https://www.staff.hs-mittweida.de/~wuenschi). 
