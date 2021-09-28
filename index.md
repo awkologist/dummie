@@ -12,9 +12,9 @@ title: Allgemeinbildung Gene, Genetik und Gentechnik für Dummies
 
 <table>
   <tr>
-    <td><img src="cover-dummie.png" alt="Buchdeckel" width="100"/></td>
+    <td><img src="cover-dummie.png" alt="Buchdeckel" width="30%"/></td>
     <td></td>
-    <td>Diese Webseite enthält die <a href="literatur.md">Literaturreferenzen</a> zu den einzelnen Kapiteln. Zudem werden hier <a href="errata.md">Fehler</a>[Fehler](errata.md) gesammelt.</td>
+    <td>Diese Webseite enthält die <a href="quellen">Literaturreferenzen</a> zu den einzelnen Kapiteln. Zudem werden hier <a href="errata.md">Fehler</a> gesammelt und korrigiert.</td>
   </tr>
  </table>
  
