@@ -4,7 +4,7 @@ title: Quellen
 permalink: /quellen/
 ---
 
-Nachfolgend ist die verwendete Literatur kapitelweise aufgeführt. Klicken Sie den Kapitelnamen, um die Liste aufzublättern.
+Nachfolgend ist die verwendete Literatur kapitelweise aufgeführt. Klicken Sie auf einen Kapitelnamen, um die Liste aufzublättern und zu schließen.
 
 <details>
   <summary>Einleitung</summary>
