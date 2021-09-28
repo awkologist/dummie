@@ -61,21 +61,4 @@ plugins:
  - jekyll-feed
  - jekyll-seo-tag
 
----
-galleries:
- # gallery number one
- 1:
-   # row one in gallery one
-   -
-     - { url: 'images/abb-dummies.001.png', alt: 'alt 1'}
-   # row two in gallery one
-   -
-     - { url: 'images/abb-dummies.002.png', alt: 'alt 2'}
-     - { url: 'images/abb-dummies.003.png', alt: 'alt 3'}
 
- # gallery number two
- 2:
-  # row one in gallery two
-   -
-     - { url: 'images/abb-dummies.004.png', alt: 'alt 4'}
-     - { url: 'images/abb-dummies.005.png', alt: 'alt 5'}
