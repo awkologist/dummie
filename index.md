@@ -17,7 +17,7 @@ title: Allgemeinbildung Gene, Genetik und Gentechnik für Dummies
   </tr>
  </table>
 
-<img align="left" src="cover-dummie.png" alt="Buchdeckel" class="responsive">
+<img align="left" src="cover-dummie.png" alt="Buchdeckel" class="responsive" vspace="12px" hspace="12px">
 
 Worum geht es in dem Dummie-Buch?
 
