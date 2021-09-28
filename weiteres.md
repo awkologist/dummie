@@ -78,7 +78,7 @@ done
 
 <script>
 var slideIndex = [1,1];
-var slideId = ["dummieAbb1", "dummieAbb2"]
+var slideId = ["dummieAbb0", "dummieAbb1"]
 showDivs(1, 0);
 showDivs(1, 1);
 
