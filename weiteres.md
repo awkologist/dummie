@@ -6,6 +6,10 @@ permalink: /gallery/
 
 ### Bildergallerie
 
+<style>
+.dummieAbb {display:none;}
+</style>
+
 <img class="dummieAbb" src="/dummie/images/abb-dummies.001.png">
 <img class="dummieAbb" src="/dummie/images/abb-dummies.002.png">
 <img class="dummieAbb" src="/dummie/images/abb-dummies.003.png">
