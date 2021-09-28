@@ -6,9 +6,6 @@ permalink: /gallery/
 
 Klicken Sie auf eine Abbildung, um dass nächste Bild zu sehen. Alternativ können Sie auf die schwarzen Punkte klicken, um vorwärts und zurück zu navigieren.
 
-<style>
-.dummieAbb {display:none;}
-</style>
 
 <center>
 <b onclick="currentDiv(1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
@@ -27,7 +24,7 @@ Klicken Sie auf eine Abbildung, um dass nächste Bild zu sehen. Alternativ könn
 </figure>
 <figure class="dummieAbb" >
 <img class="dummieAbb" src="/dummie/images/abb-dummies.003.png" onclick="plusDivs(+1)">
-<figcaption><b>Abb. 13: </b>Kapitel bla bla </figcaption>
+<figcaption><b>Abb. 3: </b>Kapitel bla bla </figcaption>
 </figure>
 <figure class="dummieAbb" >
 <img class="dummieAbb" src="/dummie/images/abb-dummies.004.png" onclick="plusDivs(+1)">
