@@ -6,7 +6,7 @@ permalink: /gallery/
 
 Klicken Sie auf eine Abbildung, um dass nächste Bild zu sehen. Alternativ können Sie auf die schwarzen Punkte klicken, um vorwärts und zurück zu navigieren.
 
-
+done
 
 <details>
   <summary>Einleitung</summary>
@@ -78,7 +78,7 @@ Klicken Sie auf eine Abbildung, um dass nächste Bild zu sehen. Alternativ könn
 
 <script>
 var slideIndex = [1,1];
-var slideId = ["mySlides1", "mySlides2"]
+var slideId = ["dummieAbb1", "dummieAbb2"]
 showDivs(1, 0);
 showDivs(1, 1);
 
