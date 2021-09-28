@@ -9,8 +9,12 @@ layout: page
 title: Allgemeinbildung Gene, Genetik und Gentechnik für Dummies
 ---
 
-<style> table, tr, td, th {border:hidden;}</style>
-<table>
+<style>
+.site-main table.no-border td {
+    border: none;
+}
+</style>
+<table  class="no-border">
   <tr>
     <td><img src="cover-dummie.png" alt="Buchdeckel" class="responsive" /></td>
     <td></td>
