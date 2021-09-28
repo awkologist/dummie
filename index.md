@@ -9,18 +9,16 @@ layout: page
 title: Allgemeinbildung Gene, Genetik und Gentechnik für Dummies
 ---
 
-<style>
-table {border: none;}
-tr {border: none;}
-</style>
 <table>
   <tr>
     <td><img src="cover-dummie.png" alt="Buchdeckel" class="responsive" /></td>
     <td></td>
-    <td>Diese Webseite enthält die <a href="quellen">Literaturreferenzen</a> zu den einzelnen Kapiteln. Zudem werden hier <a href="errata.md">Fehler</a> gesammelt und korrigiert.</td>
+    <td>NEW Diese Webseite enthält die <a href="quellen">Literaturreferenzen</a> zu den einzelnen Kapiteln. Zudem werden hier <a href="errata.md">Fehler</a> gesammelt und korrigiert.</td>
   </tr>
  </table>
- 
+
+<img align="left" src="cover-dummie.png" alt="Buchdeckel" class="responsive">
+
 Worum geht es in dem Dummie-Buch?
 
 <details>
