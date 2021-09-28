@@ -10,12 +10,6 @@ Klicken Sie auf eine Abbildung, um dass nächste Bild zu sehen. Alternativ könn
 .dummieAbb {display:none;}
 </style>
 
-<img class="dummieAbb" src="/dummie/images/abb-dummies.001.png" onclick="plusDivs(+1)">
-<img class="dummieAbb" src="/dummie/images/abb-dummies.002.png" onclick="plusDivs(+1)">
-<img class="dummieAbb" src="/dummie/images/abb-dummies.003.png" onclick="plusDivs(+1)">
-<img class="dummieAbb" src="/dummie/images/abb-dummies.004.png" onclick="plusDivs(+1)">
-<img class="dummieAbb" src="/dummie/images/abb-dummies.005.png" onclick="plusDivs(+1)">
-
 <center>
 <b onclick="currentDiv(1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(2)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
@@ -23,6 +17,28 @@ Klicken Sie auf eine Abbildung, um dass nächste Bild zu sehen. Alternativ könn
 <b onclick="currentDiv(4)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(5)">●</b> 
 </center>
+<figure>
+<img class="dummieAbb" src="/dummie/images/abb-dummies.001.png" onclick="plusDivs(+1)">
+<figcaption><b>Abb. 1: </b>Kapitel bla bla </figcaption>
+</figure>
+<figure>
+<img class="dummieAbb" src="/dummie/images/abb-dummies.002.png" onclick="plusDivs(+1)">
+<figcaption><b>Abb. 2: </b>Kapitel bla bla </figcaption>
+</figure>
+<figure>
+<img class="dummieAbb" src="/dummie/images/abb-dummies.003.png" onclick="plusDivs(+1)">
+<figcaption><b>Abb. 13: </b>Kapitel bla bla </figcaption>
+</figure>
+<figure>
+<img class="dummieAbb" src="/dummie/images/abb-dummies.004.png" onclick="plusDivs(+1)">
+<figcaption><b>Abb. 4: </b>Kapitel bla bla </figcaption>
+</figure>
+<figure>
+<img class="dummieAbb" src="/dummie/images/abb-dummies.005.png" onclick="plusDivs(+1)">
+<figcaption><b>Abb. 5: </b>Kapitel bla bla </figcaption>
+</figure>
+
+
 
 <script>
 var slideIndex = 1;
