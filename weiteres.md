@@ -15,6 +15,7 @@ permalink: /gallery/
 <button class="w3-button w3-display-left" onclick="plusDivs(-1)">&#10094;</button>
 <button class="w3-button w3-display-right" onclick="plusDivs(+1)">&#10095;</button>
 
+<script>
 var slideIndex = 1;
 showDivs(slideIndex);
 
@@ -32,6 +33,7 @@ function showDivs(n) {
   }
   x[slideIndex-1].style.display = "block"; 
 }
+</script>
 
 <img src="/dummie/images/abb-dummies2.gif" alt="Eineitung" width="600" class="responsive">
 
