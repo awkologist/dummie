@@ -1,4 +1,4 @@
-<i>let's go</i>
+<i>let's go {{ page.title }}</i>
 <br>
 <b>{{ site.baseurl }}</b>
 <br>
@@ -9,7 +9,7 @@
 <b>hm: {{ page.pages }}</b>
 
 {% for ttext in page.pages %}
-<p>ttext : {{ttext}}</p>
+<p>ttext : {{ ttext }}</p>
 {% endfor %}
 
 {% assign rows = page.galleries[include.gallery] %}
