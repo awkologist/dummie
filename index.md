@@ -10,11 +10,11 @@ title: Allgemeinbildung Gene, Genetik und Gentechnik für Dummies
 ---
 
 <style>
-.site-main table.no-border td {
-    border: none;
+table {
+   border: none;
 }
 </style>
-<table  class="no-border">
+<table>
   <tr>
     <td><img src="cover-dummie.png" alt="Buchdeckel" class="responsive" /></td>
     <td></td>
