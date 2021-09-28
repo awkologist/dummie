@@ -41,7 +41,7 @@ Klicken Sie auf eine Abbildung, um dass nächste Bild zu sehen. Alternativ könn
 </details>
 
 <details>
-  <summary>**Kapitel 1**: text</summary>
+  <summary>Kapitel 1: text</summary>
 
 <center><br>
 <b onclick="currentDiv(1, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
