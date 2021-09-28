@@ -6,17 +6,17 @@ permalink: /gallery/
 
 Klicken Sie auf eine Abbildung, um dass nächste Bild zu sehen. Alternativ können Sie auf die schwarzen Punkte klicken, um vorwärts und zurück zu navigieren.
 
-done
+
 
 <details>
   <summary>Einleitung</summary>
 
 <center><br>
-<b onclick="currentDiv(1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(2)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(4)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(5)">●</b> 
+<b onclick="currentDiv(1, 0)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(2, 0)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(3, 0)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(4, 0)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(5, 0)">●</b> 
 </center>
 <figure class="dummieAbb0" >
 <img src="/dummie/images/abb-dummies.001.png" onclick="plusDivs(+1, 0)">
@@ -44,11 +44,11 @@ done
   <summary>**Kapitel 1**: text</summary>
 
 <center><br>
-<b onclick="currentDiv(1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(2)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(4)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(5)">●</b> 
+<b onclick="currentDiv(1, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(2, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(3, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(4, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(5, 1)">●</b> 
 </center>
 <figure class="dummieAbb1" >
 <img src="/dummie/images/abb-dummies.001.png" onclick="plusDivs(+1, 1)">
@@ -82,8 +82,8 @@ var slideId = ["mySlides1", "mySlides2"]
 showDivs(1, 0);
 showDivs(1, 1);
 
-function currentDiv(n) {
-  showDivs(slideIndex = n);
+function currentDiv(n, no) {
+  showDivs(slideIndex = n, no);
 }
 
 function plusDivs(n, no) {
