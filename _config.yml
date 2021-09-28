@@ -61,11 +61,4 @@ plugins:
  - jekyll-feed
  - jekyll-seo-tag
 
-imagesurl: /dummie/images/
-thumbsurl: /dummie/images/
 
-defaults:
-  - scope:
-      path: "images"
-    values:
-      image: true
