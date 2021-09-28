@@ -1,5 +1,5 @@
 <i>test</i>
-
+<p>
 <div class="image-gallery">
   {% assign sorted = site.static_files | sort: 'date' | reverse %}
   {% for file in sorted %}
@@ -14,6 +14,7 @@
     {% endif %}
   {% endfor %}
  </div>
+</p>
 
 <i>/dummie/images/abb-dummies.005.png</i>
 <img src="/dummie/images/abb-dummies.005.png" alt="{{ filename }}"  class="img-gallery" />
