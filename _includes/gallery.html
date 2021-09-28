@@ -8,6 +8,8 @@
 <br>
 <b>hm: {{ page.pages }}</b>
 
+{% for ttext in page.pages %}
+<p>ttext : {{ttext}}</p>
 
 {% assign rows = page.galleries[include.gallery] %}
 
