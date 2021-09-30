@@ -41,7 +41,7 @@ Klicken Sie auf eine Abbildung, um dass nächste Bild zu sehen. Alternativ könn
 </details>
 
 <details>
-  <summary>Kapitel 1: text</summary>
+  <summary>Kapitel 1: Die Welt der Gene</summary>
 
 <center><br>
 <b onclick="currentDiv(1, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
@@ -125,7 +125,7 @@ Klicken Sie auf eine Abbildung, um dass nächste Bild zu sehen. Alternativ könn
 
 
 <details>
-  <summary>Kapitel 2: text</summary>
+  <summary>Kapitel 2: Von der Vererbung zur quantitativen Genetik</summary>
 
 <center><br>
 <b onclick="currentDiv(1, 2)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
@@ -151,29 +151,29 @@ Klicken Sie auf eine Abbildung, um dass nächste Bild zu sehen. Alternativ könn
 <img src="/dummie/images/biodummie.023.png" onclick="plusDivs(+1, 1)">
 <figcaption><b>Abb. 2.2: </b>Die dritte Mendelsche Regel beschreibt die unabhängige Vererbung mehrerer Merkmale, wenn diese nicht gekoppelt sind, das heißt, wenn sie auf unterschiedlichen Chromosomen liegen oder auf einem Chromosom weit voneinander entfernt sind. In diesem Beispiel folgen die Merkmale Farbe (<i>F</i>) und Beschaffenheit (<i>B</i>) der Erbsenhülle einem dominat-rezessiven Erbgang. Die <i>Punnett</i>-Quadrate zeigen die aus der Fusion der haploiden Keimzellen möglichen diploiden Genotypen. Die eingerahmten Merkmalskombinationen der F2-Generation kommen nicht in der Elterngeneration vor. Sie sind reinerbige neue Kombinationen.</figcaption>
 </figure>
-<figure class="dummieChapter_1" >
+<figure class="dummieChapter_2" >
 <img src="/dummie/images/biodummie.023.png" onclick="plusDivs(+1, 1)">
-<figcaption><b>Abb. 2.3: </b>Kapitel bla bla </figcaption>
+<figcaption><b>Abb. 2.3: </b>Durch die Kopplung von Genen werden die Mendelschen Regeln außer Kraft gesetzt. Die Rekombinationshäufigkeit (auch Rekombinationsfrequenz genannt) gibt an, wie groß die Wahrscheinlichkeit ist, dass zwischen zwei Orten (Loci) im Genom Crossing-Over stattfindet. Diese Rekombinationswahrscheinlichkeit wurde früher in der Einheit Centimorgan (cM) angegeben.</figcaption>
 </figure>
 <figure class="dummieChapter_2" >
 <img src="/dummie/images/biodummie.023.png" onclick="plusDivs(+1, 1)">
-<figcaption><b>Abb. 2.4: </b>Kapitel bla bla </figcaption>
+  <figcaption><b>Abb. 2.4: </b>Originalabbildung aus dem Buch <i>Experimentelle Protistenstudien</i> von <i>Victor Jollos</i> von 1921. Die Versuche führte er bereits zehn Jahre vorher durch. Die Selektion der Körpergröße bei Pantoffeltierchen führt in jeder Weiterzucht wieder zu einer Normalverteilung der Körpergrößen wie in der ursprünglichen Population. Das ist das Ergebnis der Regression zum Mittelwert.</figcaption>
 </figure>
 <figure class="dummieChapter_2" >
 <img src="/dummie/images/biodummie.023.png" onclick="plusDivs(+1, 1)">
-<figcaption><b>Abb. 2.5: </b>Kapitel bla bla </figcaption>
+  <figcaption><b>Abb. 2.5: </b><i>Francis Galton</i> beschrieb 1886 die Regression zum Mittelwert. Schwarze Kreise stellen die mittlere Größe der Elternpaare dar. Graue Kreise kennzeichnen Mittelwerte der Körpergrößen der Kinder. Die Kinder von Eltern, die kleiner als die Durchschnittsgröße sind, tendieren zum Mittelwert, werden also eher größer als die Eltern. Die Umrechnung der Körpergröße von Inch zu Zentimetern macht leider keinen Sinn: Das Inch wurde erst in den 1950er Jahren als 2,54 Zentimetern festgelegt. Vorher gab es Wildwuchs.</figcaption>
 </figure>
 <figure class="dummieChapter_2" >
 <img src="/dummie/images/biodummie.023.png" onclick="plusDivs(+1, 1)">
-<figcaption><b>Abb. 2.6: </b>Kapitel bla bla </figcaption>
+<figcaption><b>Abb. 2.6: </b>Die Einflüsse des Erbguts und der Umwelt auf Merkmale (Phänotypen) unterscheiden sich.</figcaption>
 </figure>
 <figure class="dummieChapter_2" >
 <img src="/dummie/images/biodummie.023.png" onclick="plusDivs(+1, 1)">
-<figcaption><b>Abb. 2.7: </b>Kapitel bla bla </figcaption>
+<figcaption><b>Abb. 2.7: </b>Die quantitative Genetik vereint die Konzepte der Vererbung kategorischer Merkmale nach <i>Mendel</i> und kontinuierlicher Merkmale nach <i>Galton</i>. Vater der Synthese ist der britische Mathematiker <i>Ronald Fisher</i>. Zur Erinnerung: Darwins Werk <i>Über die Entstehung der Arten</i> erschien 1859.</figcaption>
 </figure>
 <figure class="dummieChapter_2" >
 <img src="/dummie/images/biodummie.023.png" onclick="plusDivs(+1, 1)">
-<figcaption><b>Abb. 2.8: </b>Kapitel bla bla </figcaption>
+<figcaption><b>Abb. 2.8: </b>Ein Überblick über die Blattrundung, die Einkerbungstiefe und die Blattfläche bei der Säulen-Espe (\textit{Populus tremula erecta}). Jedes Blatt stammt von einem eigenen Genotyp. Ich zeige hier nur eine Auswahl der auftretenden Formvariationen.</figcaption>
 </figure>
 </details>
 
