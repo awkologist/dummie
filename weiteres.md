@@ -193,7 +193,7 @@ Klicken Sie auf eine Abbildung, um dass nächste Bild zu sehen. Alternativ könn
 </details>
 
 
-  <details>
+<details>
   <summary>Kapitel 3: Vom Gen über's Genom zum Ich</summary>
 
 <center><br>
@@ -210,6 +210,7 @@ Klicken Sie auf eine Abbildung, um dass nächste Bild zu sehen. Alternativ könn
 <b onclick="currentDiv(11, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(12, 1)">●</b> 
 </center>
+  
 <figure class="dummieChapter_3" >
 <img src="/dummie/images/biodummie.033.png" onclick="plusDivs(+1, 1)">
 <figcaption>Kunst am Buch – von Kerstin Zentner.</figcaption>
