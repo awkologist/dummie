@@ -11,8 +11,8 @@ title: Allgemeinbildung Gene, Genetik und Gentechnik für Dummies
 
 <table>
   <tr>
-    <td><img src="cover-dummie.png" alt="Buchdeckel" class="responsive" /></td>
-    <td>Diese Webseite enthält die <a href="quellen">Literaturreferenzen</a> zu den einzelnen Kapiteln. Zudem werden hier <a href="errata.md">Fehler</a> gesammelt und korrigiert.</td>
+    <td><img src="cover-dummie.png" alt="Buchdeckel" class="responsive" href="https://www.wiley-vch.de/de/fachgebiete/naturwissenschaften/allgemeinbildung-gene-genetik-und-gentechnik-fuer-dummies-978-3-527-71746-0" /></td>
+    <td>Diese Webseite enthält die <a href="quellen">Literaturreferenzen</a> zu den einzelnen Kapiteln. Zudem werden hier <a href="errata.md">Fehler</a> gesammelt und korrigiert.<br>Auf der [Buchhomepage](https://www.wiley-vch.de/de/fachgebiete/naturwissenschaften/allgemeinbildung-gene-genetik-und-gentechnik-fuer-dummies-978-3-527-71746-0) des Verlags finden sich bibliographische Informationen. </td>
   </tr>
  </table>
 
