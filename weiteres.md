@@ -194,7 +194,7 @@ Klicken Sie auf eine Abbildung, um dass nächste Bild zu sehen. Alternativ könn
 
 
   <details>
-  <summary>Kapitel 3: Vom Gen über’s Genom zum Ich</summary>
+  <summary>Kapitel 3: Vom Gen über's Genom zum Ich</summary>
 
 <center><br>
 <b onclick="currentDiv(1, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
