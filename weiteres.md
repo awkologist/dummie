@@ -156,7 +156,7 @@ Klicken Sie auf eine Abbildung, um dass nächste Bild zu sehen. Alternativ könn
 
 <figure class="dummieChapter_2" >
 <img src="/dummie/images/biodummie.024.png" onclick="plusDivs(+1, 1)">
-<figcaption><b>Kunst am Buch – von Kerstin Zentner.</figcaption>
+<figcaption>Kunst am Buch – von Kerstin Zentner.</figcaption>
 </figure>
 <figure class="dummieChapter_2" >
 <img src="/dummie/images/biodummie.025.png" onclick="plusDivs(+1, 1)">
