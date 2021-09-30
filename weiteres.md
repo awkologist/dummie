@@ -197,18 +197,18 @@ Klicken Sie auf eine Abbildung, um dass nächste Bild zu sehen. Alternativ könn
   <summary>Kapitel 3: Vom Gen über's Genom zum Ich</summary>
 
 <center><br>
-<b onclick="currentDiv(1, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(2, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(3, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(4, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(5, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(6, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(7, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(8, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(9, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(10, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(11, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(12, 1)">●</b> 
+<b onclick="currentDiv(1, 3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(2, 3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(3, 3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(4, 3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(5, 3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(6, 3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(7, 3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(8, 3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(9, 3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(10, 3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(11, 3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(12, 3)">●</b> 
 </center>
   
 <figure class="dummieChapter_3" >
