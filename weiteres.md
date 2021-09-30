@@ -266,6 +266,8 @@ var slideIndex = [1,1];
 var slideId = ["dummieChapter_0", "dummieChapter_1", "dummieChapter_2", "dummieChapter_3"]
 showDivs(1, 0);
 showDivs(1, 1);
+showDivs(1, 2);
+showDivs(1, 3);
 
 function currentDiv(n, no) {
   showDivs(slideIndex[no] = n, no);
