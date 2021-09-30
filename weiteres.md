@@ -153,7 +153,6 @@ Klicken Sie auf eine Abbildung, um dass nächste Bild zu sehen. Alternativ könn
 <b onclick="currentDiv(8, 2)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(9, 2)">●</b> 
 </center>
-
 <figure class="dummieChapter_2" >
 <img src="/dummie/images/biodummie.024.png" onclick="plusDivs(+1, 1)">
 <figcaption>Kunst am Buch – von Kerstin Zentner.</figcaption>
@@ -190,6 +189,7 @@ Klicken Sie auf eine Abbildung, um dass nächste Bild zu sehen. Alternativ könn
 <img src="/dummie/images/biodummie.032.png" onclick="plusDivs(+1, 1)">
 <figcaption><b>Abb. 2.8: </b>Ein Überblick über die Blattrundung, die Einkerbungstiefe und die Blattfläche bei der Säulen-Espe (\textit{Populus tremula erecta}). Jedes Blatt stammt von einem eigenen Genotyp. Ich zeige hier nur eine Auswahl der auftretenden Formvariationen.</figcaption>
 </figure>
+<br>
 </details>
 
 
@@ -210,7 +210,6 @@ Klicken Sie auf eine Abbildung, um dass nächste Bild zu sehen. Alternativ könn
 <b onclick="currentDiv(11, 3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(12, 3)">●</b> 
 </center>
-  
 <figure class="dummieChapter_3" >
 <img src="/dummie/images/biodummie.033.png" onclick="plusDivs(+1, 1)">
 <figcaption>Kunst am Buch – von Kerstin Zentner.</figcaption>
@@ -255,7 +254,6 @@ Klicken Sie auf eine Abbildung, um dass nächste Bild zu sehen. Alternativ könn
 <img src="/dummie/images/biodummie.044.png" onclick="plusDivs(+1, 1)">
   <figcaption><b>Abb. 3.10: </b>Das <i>Hox</i>-Gencluster. Eine sehr vereinfachte Darstellung der Kolinearität der <i>Hox</i>-Gene. In derselben Reihenfolge, in der die <i>Hox</i>-Gene auf dem Chromosom liegen, werden sind sie auch entlang der Körperachse während der Individualentwicklung aktiv. Die sieben dargestellten Gene stellen den evolutionären Ausgangspunkt dar. Die Taufliege <i>Drosophila</i> hat ein Cluster mit acht <i>Hox</i>-Genen; der Mensch vier Cluster mit insgesamt 39 <i>Hox</i>-Genen.Verändert nach Hueber <i>et al.</i> (2010) doi: 10.1371/journal.pone.0010820.</figcaption>
 </figure>
-
 <br>
 </details>
 
