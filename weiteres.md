@@ -58,15 +58,7 @@ Klicken Sie auf eine Abbildung, um dass nächste Bild zu sehen. Alternativ könn
 <b onclick="currentDiv(12, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(13, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(14, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(15, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(16, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(17, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(18, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(19, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(20, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(21, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(22, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(23, 1)">●</b> 
+<b onclick="currentDiv(15, 1)">●</b> 
 </center>
 <figure class="dummieChapter_1" >
 <img src="/dummie/images/biodummie.006.png" onclick="plusDivs(+1, 1)">
