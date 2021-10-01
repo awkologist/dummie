@@ -29,7 +29,7 @@ title: Allgemeinbildung Gene, Genetik und Gentechnik für Dummies
 
 
 <div id="rwnomobile">
-## Motor der Evolution 2
+## Motor der Evolution
 <center>
 <script src="processing-0.6-rw.js"></script>
 <canvas datasrc="robbe-dna-mutation.pjs" width="800" height="10"></canvas>
