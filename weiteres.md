@@ -187,7 +187,7 @@ Klicken Sie auf eine Abbildung, um dass nächste Bild zu sehen. Alternativ könn
 </figure>
 <figure class="dummieChapter_2" >
 <img src="/dummie/images/biodummie.032.png" onclick="plusDivs(+1, 1)">
-<figcaption><b>Abb. 2.8: </b>Ein Überblick über die Blattrundung, die Einkerbungstiefe und die Blattfläche bei der Säulen-Espe (\textit{Populus tremula erecta}). Jedes Blatt stammt von einem eigenen Genotyp. Ich zeige hier nur eine Auswahl der auftretenden Formvariationen.</figcaption>
+<figcaption><b>Abb. 2.8: </b>Ein Überblick über die Blattrundung, die Einkerbungstiefe und die Blattfläche bei der Säulen-Espe (<i>Populus tremula erecta</i>). Jedes Blatt stammt von einem eigenen Genotyp. Ich zeige hier nur eine Auswahl der auftretenden Formvariationen.</figcaption>
 </figure>
 <br>
 </details>
@@ -232,7 +232,7 @@ Klicken Sie auf eine Abbildung, um dass nächste Bild zu sehen. Alternativ könn
 </figure>
 <figure class="dummieChapter_3" >
 <img src="/dummie/images/biodummie.038.png" onclick="plusDivs(+1, 1)">
-<figcaption><b>Abb. 3.5: </b>Vergleich der Anzahl der \textit{Alu}-Elemente, die für Orang-Utans, Schimpansen und Menschen (von oben nach unten) jeweils spezifisch sind.</figcaption>
+<figcaption><b>Abb. 3.5: </b>Vergleich der Anzahl der <i>Alu</i>-Elemente, die für Orang-Utans, Schimpansen und Menschen (von oben nach unten) jeweils spezifisch sind.</figcaption>
 </figure>
 <figure class="dummieChapter_3" >
 <img src="/dummie/images/biodummie.039.png" onclick="plusDivs(+1, 1)">
