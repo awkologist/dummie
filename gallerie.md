@@ -6,7 +6,7 @@ permalink: /gallery/
 
 Klicken Sie auf eine Abbildung, um dass nächste Bild zu sehen. Alternativ können Sie auf die schwarzen Punkte klicken, um vorwärts und zurück zu navigieren.
 
-done
+
 
 <details>
   <summary>Einleitung</summary>
@@ -208,8 +208,7 @@ done
 <b onclick="currentDiv(8, 3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(9, 3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(10, 3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(11, 3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(12, 3)">●</b> 
+<b onclick="currentDiv(11, 3)">●</b> 
 </center>
 <figure class="dummieChapter_3" >
 <img src="/dummie/images/biodummie.033.png" onclick="plusDivs(+1, 3)">
