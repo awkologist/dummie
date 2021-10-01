@@ -4,7 +4,7 @@ title: Bilder
 permalink: /gallery/
 ---
 
-Klicken Sie auf eine Abbildung, um dass nächste Bild zu sehen. Alternativ können Sie auf die schwarzen Punkte klicken, um vorwärts und zurück zu navigieren.
+Klicken Sie auf einen Kapitelnamen, um die Liste aufzublättern und zu schließen. Klicken Sie auf eine Abbildung, um dass nächste Bild zu sehen. Alternativ können Sie auf die schwarzen Punkte klicken, um zu navigieren.
 
 done
 
