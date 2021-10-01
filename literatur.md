@@ -461,7 +461,7 @@ Nachfolgend ist die verwendete Literatur kapitelweise aufgeführt. Klicken Sie a
 
 * _Wang MS_, _Wang S_ _et&nbsp;al._ (2020) **Ancient Hybridization with an Unknown Population Facilitated High-Altitude Adaptation of Canids**. Molecular Biology and Evolution 37:2616-2629, doi: [10.1093/molbev/msaa113](https://doi.org/10.1093/molbev/msaa113)
 
-* _Nédélec Y, <em>Sanz J_ _et&nbsp;al._ (2016) **Genetic Ancestry and Natural Selection Drive Population Differences in Immune Responses to Pathogens**. Cell 167:657-669.e21, doi: [10.1016/j.cell.2016.09.025](https://doi.org/10.1016/j.cell.2016.09.025)
+* _Nédélec Y, _Sanz J_ _et&nbsp;al._ (2016) **Genetic Ancestry and Natural Selection Drive Population Differences in Immune Responses to Pathogens**. Cell 167:657-669.e21, doi: [10.1016/j.cell.2016.09.025](https://doi.org/10.1016/j.cell.2016.09.025)
 
 * _Quach H_, _Rotival M_ _et&nbsp;al._ (2016) **Genetic Adaptation and Neandertal Admixture Shaped the Immune System of Human Populations**. Cell 167:643-656.e17, doi: [10.1016/j.cell.2016.09.024](https://doi.org/10.1016/j.cell.2016.09.024)
 
