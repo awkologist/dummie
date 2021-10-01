@@ -16,7 +16,7 @@ title: Allgemeinbildung Gene, Genetik und Gentechnik für Dummies
   </tr>
  </table>
 
-## Worum geht es in dem Dummie-Buch?
+## Worum geht es in dem Dummies-Buch?
 
 <details>
   <summary>Zusammenfassung</summary>
