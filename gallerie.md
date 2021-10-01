@@ -39,7 +39,7 @@ done2
 </figure>
 <figure class="dummieChapter_1" >
 <img src="/dummie/images/biodummie.007.png" onclick="plusDivs(+1, 1)">
-<figcaption><b>Abb. 1.1: </b>Modell der DNA-Doppelhelix. Diese Zeichnung aus der Veröffentlichung von <i>>ames Watson</i> und <i>>Francis Crick</i> hat Cricks Frau <i>Odile Crick</i> gezeichnet. Sie verwendete dabei mutmaßlich die Proportionen des Goldenen Schnitts. Die der Struktur zugrundeliegenden Daten wurden von <i>Rosalind Franklin</i> per Röntgenstrukturanalyse gewonnen. Sie starb, bevor der Nobelpreis 1962 für die Strukturaufklärung vergeben wurde.</figcaption>
+<figcaption><b>Abb. 1.1: </b>Modell der DNA-Doppelhelix. Diese Zeichnung aus der Veröffentlichung von <i>James Watson</i> und <i>Francis Crick</i> hat Cricks Frau <i>Odile Crick</i> gezeichnet. Sie verwendete dabei mutmaßlich die Proportionen des Goldenen Schnitts. Die der Struktur zugrundeliegenden Daten wurden von <i>Rosalind Franklin</i> per Röntgenstrukturanalyse gewonnen. Sie starb, bevor der Nobelpreis 1962 für die Strukturaufklärung vergeben wurde.</figcaption>
 </figure>
 <br>
 </details>
