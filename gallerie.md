@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bildgallerie
+title: Bilder
 permalink: /gallery/
 ---
 
