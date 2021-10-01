@@ -51,8 +51,9 @@ minima:
 # this and add the path to the pages in order as they should show up
 header_pages:
  - literatur.md
- - autor.md
+ - gallerie.md
  - errata.md
+ - autor.md
 
 # Build settings
 theme: minima
