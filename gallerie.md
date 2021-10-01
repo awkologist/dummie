@@ -172,11 +172,11 @@ done
 </figure>
 <figure class="dummieChapter_2" >
 <img src="/dummie/images/biodummie.028.png" onclick="plusDivs(+1, 2)">
-  <figcaption><b>Abb. 2.4: </b>Originalabbildung aus dem Buch <i>Experimentelle Protistenstudien</i> von <i>Victor Jollos</i> von 1921. Die Versuche führte er bereits zehn Jahre vorher durch. Die Selektion der Körpergröße bei Pantoffeltierchen führt in jeder Weiterzucht wieder zu einer Normalverteilung der Körpergrößen wie in der ursprünglichen Population. Das ist das Ergebnis der Regression zum Mittelwert.</figcaption>
+<figcaption><b>Abb. 2.4: </b>Originalabbildung aus dem Buch <i>Experimentelle Protistenstudien</i> von <i>Victor Jollos</i> von 1921. Die Versuche führte er bereits zehn Jahre vorher durch. Die Selektion der Körpergröße bei Pantoffeltierchen führt in jeder Weiterzucht wieder zu einer Normalverteilung der Körpergrößen wie in der ursprünglichen Population. Das ist das Ergebnis der Regression zum Mittelwert.</figcaption>
 </figure>
 <figure class="dummieChapter_2" >
 <img src="/dummie/images/biodummie.029.png" onclick="plusDivs(+1, 2)">
-  <figcaption><b>Abb. 2.5: </b><i>Francis Galton</i> beschrieb 1886 die Regression zum Mittelwert. Schwarze Kreise stellen die mittlere Größe der Elternpaare dar. Graue Kreise kennzeichnen Mittelwerte der Körpergrößen der Kinder. Die Kinder von Eltern, die kleiner als die Durchschnittsgröße sind, tendieren zum Mittelwert, werden also eher größer als die Eltern. Die Umrechnung der Körpergröße von Inch zu Zentimetern macht leider keinen Sinn: Das Inch wurde erst in den 1950er Jahren als 2,54 Zentimetern festgelegt. Vorher gab es Wildwuchs.</figcaption>
+<figcaption><b>Abb. 2.5: </b><i>Francis Galton</i> beschrieb 1886 die Regression zum Mittelwert. Schwarze Kreise stellen die mittlere Größe der Elternpaare dar. Graue Kreise kennzeichnen Mittelwerte der Körpergrößen der Kinder. Die Kinder von Eltern, die kleiner als die Durchschnittsgröße sind, tendieren zum Mittelwert, werden also eher größer als die Eltern. Die Umrechnung der Körpergröße von Inch zu Zentimetern macht leider keinen Sinn: Das Inch wurde erst in den 1950er Jahren als 2,54 Zentimetern festgelegt. Vorher gab es Wildwuchs.</figcaption>
 </figure>
 <figure class="dummieChapter_2" >
 <img src="/dummie/images/biodummie.030.png" onclick="plusDivs(+1, 2)">
@@ -253,7 +253,7 @@ done
 </figure>
 <figure class="dummieChapter_3" >
 <img src="/dummie/images/biodummie.044.png" onclick="plusDivs(+1, 3)">
-  <figcaption><b>Abb. 3.10: </b>Das <i>Hox</i>-Gencluster. Eine sehr vereinfachte Darstellung der Kolinearität der <i>Hox</i>-Gene. In derselben Reihenfolge, in der die <i>Hox</i>-Gene auf dem Chromosom liegen, werden sind sie auch entlang der Körperachse während der Individualentwicklung aktiv. Die sieben dargestellten Gene stellen den evolutionären Ausgangspunkt dar. Die Taufliege <i>Drosophila</i> hat ein Cluster mit acht <i>Hox</i>-Genen; der Mensch vier Cluster mit insgesamt 39 <i>Hox</i>-Genen.Verändert nach Hueber <i>et al.</i> (2010) doi: <a href="https://doi.org/10.1371/journal.pone.0010820">10.1371/journal.pone.0010820</a>.</figcaption>
+<figcaption><b>Abb. 3.10: </b>Das <i>Hox</i>-Gencluster. Eine sehr vereinfachte Darstellung der Kolinearität der <i>Hox</i>-Gene. In derselben Reihenfolge, in der die <i>Hox</i>-Gene auf dem Chromosom liegen, werden sind sie auch entlang der Körperachse während der Individualentwicklung aktiv. Die sieben dargestellten Gene stellen den evolutionären Ausgangspunkt dar. Die Taufliege <i>Drosophila</i> hat ein Cluster mit acht <i>Hox</i>-Genen; der Mensch vier Cluster mit insgesamt 39 <i>Hox</i>-Genen.Verändert nach Hueber <i>et al.</i> (2010) doi: <a href="https://doi.org/10.1371/journal.pone.0010820">10.1371/journal.pone.0010820</a>.</figcaption>
 </figure>
 <br>
 </details>
@@ -262,7 +262,7 @@ done
 
 <script>
 var slideIndex = [1,1];
-var slideId = ["dummieChapter_0", "dummieChapter_1", "dummieChapter_2", "dummieChapter_3"]
+var slideId = ["dummieChapter_0", "dummieChapter_1", "dummieChapter_2", "dummieChapter_3"];
 showDivs(1, 0);
 showDivs(1, 1);
 showDivs(1, 2);
