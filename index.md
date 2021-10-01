@@ -27,7 +27,7 @@ title: Allgemeinbildung Gene, Genetik und Gentechnik für Dummies
 
 </details>
 
-<br><br>
+<br>
 <div id="rwnomobile">
 <h2> Motor der Evolution</h2>
 <script src="processing-0.6-rw.js"></script>
