@@ -29,11 +29,9 @@ title: Allgemeinbildung Gene, Genetik und Gentechnik für Dummies
 
 <br><br>
 <div id="rwnomobile">
-<h2> Motor der Evolution</h2>
-<center>
+<h2> Motor der Evolution H3</h2>
 <script src="processing-0.6-rw.js"></script>
 <canvas datasrc="robbe-dna-mutation.pjs" width="800" height="10"></canvas>
-</center>
 <p align="justify" style="width: 750; margin-left: 10; margin-right: auto;">Das Molekül des Erbguts, die <b>DNA</b>, bildet die Informationsgrundlage für die Entwicklung von Lebewesen, die Regulation von Lebensprozessen und die Vererbung. Die DNA besteht aus einer Aneinanderreihung von Molekülen, die gewöhnlich mit den Buchstaben A, T, G und C darstellt werden. Aus rund 3,2 Milliarden Buchstaben besteht das menschliche Erbgut. Die Art der auf der DNA codierten Informationen sind vielfältig. Weithin bekannt ist, dass <b>Tripletts</b> (jeweils drei Buchstaben) für Aminosäuren codieren, die wiederum die Grundbausteine von <b>Proteinen</b> (Eiweißen) bilden. In der Animation sind die zwanzig von der DNA codierten Aminosäuren durch <b>farbige Blöcke</b> dargestellt. <b>Mutationen</b> (Veränderungen) in der DNA (beim Auftreten rot dargestellt), können zu Veränderungen der Proteine und damit neuen Funktionen führen. Dies ist eine fundamentale biologische Grundlage für die <b>Diversität</b> von Genen, deren Zusammenschluss als Genom in einem Lebewesen, sowie der Wechselwirkung dieser Lebewesen in der Gesellschaft oder einem Ökosystem.</p>
 </div>
 
