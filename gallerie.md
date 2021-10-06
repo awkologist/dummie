@@ -193,7 +193,7 @@ Klicken Sie auf eine Abbildung, um dass nächste Bild zu sehen. Alternativ könn
 
 
 <details>
-  <summary>Kapitel 3: Vom Gen über's Genom zum Ich</summary>
+  <summary>Kapitel 3: Vom Gen übers Genom zum Ich</summary>
 
 <center><br>
 <b onclick="currentDiv(1, 3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
@@ -423,7 +423,7 @@ Klicken Sie auf eine Abbildung, um dass nächste Bild zu sehen. Alternativ könn
 
 
 <details>
-  <summary>Kapitel 8: Unser DNA als Glaskugel</summary>
+  <summary>Kapitel 8: Unsere DNA als Glaskugel</summary>
 
 <center><br>
 <b onclick="currentDiv(1, 8)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
