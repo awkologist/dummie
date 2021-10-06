@@ -139,7 +139,7 @@ Nachfolgend ist die verwendete Literatur kapitelweise aufgeführt. Klicken Sie a
 </details>
 
 <details>
-  <summary>Kapitel 3: Vom Gen über’s Genom zum Ich</summary>
+  <summary>Kapitel 3: Vom Gen übers Genom zum Ich</summary>
 
 * _Slonim N_, _Bilu Y_ _et&nbsp;al._ (2021) **An autonomous debating system**. Nature 591:379-384, doi: [10.1038/s41586-021-03215-w](https://doi.org/10.1038/s41586-021-03215-w)
 
@@ -381,7 +381,7 @@ Nachfolgend ist die verwendete Literatur kapitelweise aufgeführt. Klicken Sie a
 </details>
 
 <details>
-  <summary>Kapitel 8: Unser DNA als Glaskugel</summary>
+  <summary>Kapitel 8: Unsere DNA als Glaskugel</summary>
 
 * _Zerjal T_, _Xue Y_ _et&nbsp;al._ (2003) **The Genetic Legacy of the Mongols**. The American Journal of Human Genetics 72:717-721, doi: [10.1086/367774](https://doi.org/10.1086/367774)
 
