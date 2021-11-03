@@ -650,7 +650,7 @@ Klicken Sie auf eine Abbildung, um dass nächste Bild zu sehen. Alternativ könn
 </figure>
 <figure class="dummieChapter_13" >
 <img src="/dummie/images/biodummie.105.png" onclick="plusDivs(+1, 13)">
-<figcaption><b>Abb. 13.1: </b>Weltweit registrierte Gentherapien. Die Weltordnung auf meiner Karte ist etwas offener und auch Europa vereinter. Die Zahlen geben die Anzahl der beim \textit{US National Institutes of Health} registrierten Gentherapie- und gegebenenfalls Geneditierungsstudien an, die sich in der klinischen Phase befinden: In Deutschland sind dies 38 Gentherapiestudien und eine Genditierungsstudie. Quelle: <a href="https://clinicaltrials.gov">clinicaltrials.gov</a>.</figcaption>
+<figcaption><b>Abb. 13.1: </b>Weltweit registrierte Gentherapien. Die Weltordnung auf meiner Karte ist etwas offener und auch Europa vereinter. Die Zahlen geben die Anzahl der beim <i>US National Institutes of Health</i> registrierten Gentherapie- und gegebenenfalls Geneditierungsstudien an, die sich in der klinischen Phase befinden: In Deutschland sind dies 38 Gentherapiestudien und eine Genditierungsstudie. Quelle: <a href="https://clinicaltrials.gov">clinicaltrials.gov</a>.</figcaption>
 </figure>
 <figure class="dummieChapter_13" >
 <img src="/dummie/images/biodummie.106.png" onclick="plusDivs(+1, 13)">
