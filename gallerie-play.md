@@ -13,7 +13,7 @@ done
 
 <center><br>
 <b onclick="currentDiv(1, 0)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(2, 0)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(2, 0)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(3, 0)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(4, 0)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(5, 0)">●</b> 
