@@ -19,6 +19,11 @@ done
 <b onclick="currentDiv(5, 0)">●</b> 
 </center>
 <figure class="dummieChapter_0" >
+<b onclick="currentDiv(1, 0)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(2, 0)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(3, 0)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(4, 0)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(5, 0)">●</b> 
 <img src="/dummie/images/biodummie.001.png" onclick="plusDivs(+1, 0)">
 <figcaption>Kunst am Buch – von Kerstin Zentner.</figcaption>
 </figure>
