@@ -11,6 +11,18 @@ done
 <details>
   <summary>Einleitung</summary>
 
+<figure class="dummieChapter_0" >
+<center><br>
+<b onclick="currentDiv(1, 0)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(2, 0)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(3, 0)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(4, 0)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(5, 0)">●</b> 
+</center>
+<img src="/dummie/images/biodummie.001.png" onclick="plusDivs(+1, 0)">
+<figcaption>Kunst am Buch – von Kerstin Zentner.</figcaption>
+</figure>
+<figure class="dummieChapter_0" >
 <center><br>
 <b onclick="currentDiv(1, 0)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(2, 0)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
@@ -18,28 +30,39 @@ done
 <b onclick="currentDiv(4, 0)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(5, 0)">●</b> 
 </center>
+<img src="/dummie/images/biodummie.002.png" onclick="plusDivs(+1, 0)">
+<figcaption><b>Abb. 1: </b>Schematische Illustration des Cas9-Proteins der Genschere.</figcaption>
+</figure>
 <figure class="dummieChapter_0" >
+<center><br>
 <b onclick="currentDiv(1, 0)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(2, 0)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(3, 0)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(4, 0)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(5, 0)">●</b> 
-<img src="/dummie/images/biodummie.001.png" onclick="plusDivs(+1, 0)">
-<figcaption>Kunst am Buch – von Kerstin Zentner.</figcaption>
-</figure>
-<figure class="dummieChapter_0" >
-<img src="/dummie/images/biodummie.002.png" onclick="plusDivs(+1, 0)">
-<figcaption><b>Abb. 1: </b>Schematische Illustration des Cas9-Proteins der Genschere.</figcaption>
-</figure>
-<figure class="dummieChapter_0" >
+</center>
 <img src="/dummie/images/biodummie.003.png" onclick="plusDivs(+1, 0)">
 <figcaption><b>Abb. 2: </b>Die Goldene Schallplatte. Bilder: NASA.</figcaption>
 </figure>
 <figure class="dummieChapter_0" >
+<center><br>
+<b onclick="currentDiv(1, 0)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(2, 0)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(3, 0)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(4, 0)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(5, 0)">●</b> 
+</center>
 <img src="/dummie/images/biodummie.004.png" onclick="plusDivs(+1, 0)">
 <figcaption><b>Abb. 3: </b>Unterricht und Diskussion über Coronaviren mit Schülern. Foto: Heidi Fußwinkel.</figcaption>
 </figure>
 <figure class="dummieChapter_0" >
+<center><br>
+<b onclick="currentDiv(1, 0)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(2, 0)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(3, 0)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(4, 0)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(5, 0)">▼</b> 
+</center>
 <img src="/dummie/images/biodummie.005.png" onclick="plusDivs(+1, 0)">
 <figcaption><b>Abb. 4: </b>Der QR-Code verweist auf die Literaturliste zu diesem Buch.</figcaption>
 </figure>
