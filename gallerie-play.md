@@ -4,14 +4,14 @@ title: Test Bildgallerie
 permalink: /galleryplay/
 ---
 
-▼Klicken Sie auf eine Abbildung, um dass nächste Bild zu sehen. Alternativ können Sie auf die schwarzen Punkte klicken, um vorwärts und zurück zu navigieren.
+Klicken Sie auf eine Abbildung, um dass nächste Bild zu sehen. Alternativ können Sie auf die schwarzen Punkte klicken, um vorwärts und zurück zu navigieren.
 
 <details>
   <summary>Einleitung</summary>
 
 <figure class="dummieChapter_0" >
 <center><br>
-<b onclick="currentDiv(1, 0)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(1, 0)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(2, 0)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(3, 0)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(4, 0)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
@@ -23,7 +23,7 @@ permalink: /galleryplay/
 <figure class="dummieChapter_0" >
 <center><br>
 <b onclick="currentDiv(1, 0)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(2, 0)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(2, 0)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(3, 0)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(4, 0)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(5, 0)">●</b> 
@@ -35,7 +35,7 @@ permalink: /galleryplay/
 <center><br>
 <b onclick="currentDiv(1, 0)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(2, 0)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(3, 0)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(3, 0)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(4, 0)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(5, 0)">●</b> 
 </center>
@@ -47,7 +47,7 @@ permalink: /galleryplay/
 <b onclick="currentDiv(1, 0)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(2, 0)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(3, 0)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(4, 0)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(4, 0)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(5, 0)">●</b> 
 </center>
 <img src="/dummie/images/biodummie.004.png" onclick="plusDivs(+1, 0)">
@@ -59,7 +59,7 @@ permalink: /galleryplay/
 <b onclick="currentDiv(2, 0)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(3, 0)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(4, 0)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(5, 0)">●</b> 
+<b onclick="currentDiv(5, 0)">▼</b> 
 </center>
 <img src="/dummie/images/biodummie.005.png" onclick="plusDivs(+1, 0)">
 <figcaption><b>Abb. 4: </b>Der QR-Code verweist auf die Literaturliste zu diesem Buch.</figcaption>
@@ -72,7 +72,7 @@ permalink: /galleryplay/
 
 <figure class="dummieChapter_1" >
 <center><br>
-<b onclick="currentDiv(1, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(1, 1)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(2, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(3, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(4, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
@@ -97,7 +97,7 @@ permalink: /galleryplay/
 <figure class="dummieChapter_1" >
 <center><br>
 <b onclick="currentDiv(1, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(2, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(2, 1)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(3, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(4, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(5, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
@@ -122,7 +122,7 @@ permalink: /galleryplay/
 <center><br>
 <b onclick="currentDiv(1, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(2, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(3, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(3, 1)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(4, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(5, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(6, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
@@ -147,7 +147,7 @@ permalink: /galleryplay/
 <b onclick="currentDiv(1, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(2, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(3, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(4, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(4, 1)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(5, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(6, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(7, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
@@ -172,7 +172,7 @@ permalink: /galleryplay/
 <b onclick="currentDiv(2, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(3, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(4, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(5, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(5, 1)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(6, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(7, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(8, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
@@ -197,7 +197,7 @@ permalink: /galleryplay/
 <b onclick="currentDiv(3, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(4, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(5, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(6, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(6, 1)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(7, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(8, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(9, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
@@ -222,7 +222,7 @@ permalink: /galleryplay/
 <b onclick="currentDiv(4, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(5, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(6, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(7, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(7, 1)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(8, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(9, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(10, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
@@ -247,7 +247,7 @@ permalink: /galleryplay/
 <b onclick="currentDiv(5, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(6, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(7, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(8, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(8, 1)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(9, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(10, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(11, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
@@ -272,7 +272,7 @@ permalink: /galleryplay/
 <b onclick="currentDiv(6, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(7, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(8, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(9, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(9, 1)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(10, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(11, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(12, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
@@ -297,7 +297,7 @@ permalink: /galleryplay/
 <b onclick="currentDiv(7, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(8, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(9, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(10, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(10, 1)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(11, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(12, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(13, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
@@ -322,7 +322,7 @@ permalink: /galleryplay/
 <b onclick="currentDiv(8, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(9, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(10, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(11, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(11, 1)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(12, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(13, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(14, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
@@ -347,7 +347,7 @@ permalink: /galleryplay/
 <b onclick="currentDiv(9, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(10, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(11, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(12, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(12, 1)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(13, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(14, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(15, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
@@ -372,7 +372,7 @@ permalink: /galleryplay/
 <b onclick="currentDiv(10, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(11, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(12, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(13, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(13, 1)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(14, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(15, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(16, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
@@ -397,7 +397,7 @@ permalink: /galleryplay/
 <b onclick="currentDiv(11, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(12, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(13, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(14, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(14, 1)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(15, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(16, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(17, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
@@ -422,7 +422,7 @@ permalink: /galleryplay/
 <b onclick="currentDiv(12, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(13, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(14, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(15, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(15, 1)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(16, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(17, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(18, 1)">●</b> 
@@ -447,7 +447,7 @@ permalink: /galleryplay/
 <b onclick="currentDiv(13, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(14, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(15, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(16, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(16, 1)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(17, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(18, 1)">●</b> 
 </center>
@@ -472,7 +472,7 @@ permalink: /galleryplay/
 <b onclick="currentDiv(14, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(15, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(16, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(17, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(17, 1)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(18, 1)">●</b> 
 </center>
 <img src="/dummie/images/biodummie.022.png" onclick="plusDivs(+1, 1)">
@@ -497,7 +497,7 @@ permalink: /galleryplay/
 <b onclick="currentDiv(15, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(16, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(17, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(18, 1)">●</b> 
+<b onclick="currentDiv(18, 1)">▼</b> 
 </center>
 <img src="/dummie/images/biodummie.023.png" onclick="plusDivs(+1, 1)">
 <figcaption><b>Abb. 1.14: </b>Herstellung und Aufbau eines IgG-Antikörpers. Während der Entwicklung der B-Lymphozyten werden aus dem Immunoglobin-Genlocus je ein V- und ein J-Segment mit einem C-Segment zu einem Gen verbunden. Allein hierbei sind vierzig mal fünf Kombinationen möglich – dadurch das diese Rekombination fehlerhaft sein kann, aber noch mehr. Der ins Blut entlassene IgG-Antikörper besteht aus je zwei identischen schweren und leichten Proteinketten, die miteinander verbunden sind. Deren variable Bereiche erkennen spezifisch einen Bereich (Epitop) eines Fremdmoleküls (Antigen). V: variabel; J: <i>join</i>; C: konstant; L: leicht; H: schwer. </figcaption>
@@ -511,7 +511,7 @@ permalink: /galleryplay/
 
 <figure class="dummieChapter_2" >
 <center><br>
-<b onclick="currentDiv(1, 2)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(1, 2)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(2, 2)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(3, 2)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(4, 2)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
@@ -527,7 +527,7 @@ permalink: /galleryplay/
 <figure class="dummieChapter_2" >
 <center><br>
 <b onclick="currentDiv(1, 2)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(2, 2)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(2, 2)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(3, 2)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(4, 2)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(5, 2)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
@@ -543,7 +543,7 @@ permalink: /galleryplay/
 <center><br>
 <b onclick="currentDiv(1, 2)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(2, 2)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(3, 2)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(3, 2)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(4, 2)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(5, 2)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(6, 2)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
@@ -559,7 +559,7 @@ permalink: /galleryplay/
 <b onclick="currentDiv(1, 2)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(2, 2)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(3, 2)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(4, 2)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(4, 2)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(5, 2)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(6, 2)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(7, 2)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
@@ -575,7 +575,7 @@ permalink: /galleryplay/
 <b onclick="currentDiv(2, 2)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(3, 2)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(4, 2)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(5, 2)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(5, 2)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(6, 2)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(7, 2)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(8, 2)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
@@ -591,7 +591,7 @@ permalink: /galleryplay/
 <b onclick="currentDiv(3, 2)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(4, 2)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(5, 2)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(6, 2)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(6, 2)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(7, 2)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(8, 2)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(9, 2)">●</b> 
@@ -607,7 +607,7 @@ permalink: /galleryplay/
 <b onclick="currentDiv(4, 2)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(5, 2)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(6, 2)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(7, 2)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(7, 2)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(8, 2)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(9, 2)">●</b> 
 </center>
@@ -623,7 +623,7 @@ permalink: /galleryplay/
 <b onclick="currentDiv(5, 2)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(6, 2)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(7, 2)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(8, 2)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(8, 2)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(9, 2)">●</b> 
 </center>
 <img src="/dummie/images/biodummie.031.png" onclick="plusDivs(+1, 2)">
@@ -639,7 +639,7 @@ permalink: /galleryplay/
 <b onclick="currentDiv(6, 2)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(7, 2)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(8, 2)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(9, 2)">●</b> 
+<b onclick="currentDiv(9, 2)">▼</b> 
 </center>
 <img src="/dummie/images/biodummie.032.png" onclick="plusDivs(+1, 2)">
 <figcaption><b>Abb. 2.8: </b>Ein Überblick über die Blattrundung, die Einkerbungstiefe und die Blattfläche bei der Säulen-Espe (<i>Populus tremula erecta</i>). Jedes Blatt stammt von einem eigenen Genotyp. Ich zeige hier nur eine Auswahl der auftretenden Formvariationen.</figcaption>
@@ -653,7 +653,7 @@ permalink: /galleryplay/
 
 <figure class="dummieChapter_3" >
 <center><br>
-<b onclick="currentDiv(1, 3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(1, 3)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(2, 3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(3, 3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(4, 3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
@@ -663,8 +663,7 @@ permalink: /galleryplay/
 <b onclick="currentDiv(8, 3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(9, 3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(10, 3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(11, 3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(12, 3)">●</b> 
+<b onclick="currentDiv(11, 3)">●</b> 
 </center>
 <img src="/dummie/images/biodummie.033.png" onclick="plusDivs(+1, 3)">
 <figcaption>Kunst am Buch – von Kerstin Zentner.</figcaption>
@@ -672,7 +671,7 @@ permalink: /galleryplay/
 <figure class="dummieChapter_3" >
 <center><br>
 <b onclick="currentDiv(1, 3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(2, 3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(2, 3)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(3, 3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(4, 3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(5, 3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
@@ -681,8 +680,7 @@ permalink: /galleryplay/
 <b onclick="currentDiv(8, 3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(9, 3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(10, 3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(11, 3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(12, 3)">●</b> 
+<b onclick="currentDiv(11, 3)">●</b> 
 </center>
 <img src="/dummie/images/biodummie.034.png" onclick="plusDivs(+1, 3)">
 <figcaption><b>Abb. 3.1: </b>Grad der Übereinstimmung der Genome verschiedener Organismen. Auf der Ebene der Proteine ist die Identität noch viel größer. Der Mensch ganz rechts ist der Neanderthaler. Der Maus, Zebrafisch und Fruchtfliege sind beliebte Modellorganisimen für Krankheiten beim Menschen, da sie sich gut züchten und halten lassen. Schon gemerkt?: Die Größenverhältnisse stimmen nicht.</figcaption>
@@ -691,7 +689,7 @@ permalink: /galleryplay/
 <center><br>
 <b onclick="currentDiv(1, 3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(2, 3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(3, 3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(3, 3)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(4, 3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(5, 3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(6, 3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
@@ -699,8 +697,7 @@ permalink: /galleryplay/
 <b onclick="currentDiv(8, 3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(9, 3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(10, 3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(11, 3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(12, 3)">●</b> 
+<b onclick="currentDiv(11, 3)">●</b> 
 </center>
 <img src="/dummie/images/biodummie.035.png" onclick="plusDivs(+1, 3)">
 <figcaption><b>Abb. 3.2: </b>Die Größe von Genomen und das C-Wert Paradox. Die Größe des Erbguts nimmt nicht proportional mit der Komplexität der Lebewesen zu. Mit 43 Milliarden Basenpaaren hat der Lungenfisch das bislang größte bekannte tierische und mit 150 Milliarden Basenpaaren die Einbeere <i>Paris japonica</i> das größte bekannte pflanzliche Genom. Die Amöbe <i>Polychaos dubium</i> hat mit 670 Milliarden Basenpaaren (Bp) das größte bekannte Genom überhaupt. Vier Millionen Bp: <i>Escherichia coli</i>; 130 Millionen Bp: <i>Arabidopsis thaliana</i>; 3,2 Milliarden Bp: Mensch; 16 Milliarden Bp: Weizen; 43 Milliarden Bp: Lungenfisch.</figcaption>
@@ -710,15 +707,14 @@ permalink: /galleryplay/
 <b onclick="currentDiv(1, 3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(2, 3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(3, 3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(4, 3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(4, 3)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(5, 3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(6, 3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(7, 3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(8, 3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(9, 3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(10, 3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(11, 3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(12, 3)">●</b> 
+<b onclick="currentDiv(11, 3)">●</b> 
 </center>
 <img src="/dummie/images/biodummie.036.png" onclick="plusDivs(+1, 3)">
 <figcaption><b>Abb. 3.3: </b>So sieht Komplexität aus. Das Bild gewann im Jahr 2019 den <i>Wellcome Photography Prize</i>. Bild: <i>Carly Ziegler</i>, <i>Alex Shalek</i>, <i>Shaina Carroll</i> vom <i>Massachusetts Institute of Technology</i> und <i>Leslie Kean</i>, <i>Victor Tkachev</i> und <i>Lucrezia Colonna</i> vom <i>Dana-Farber Cancer Institute</i>. Die kreisförmige Anordnung zeigt etwa hunderttausend Zellen des Rhesusaffen. Jede Zelle ist ein Bildpunkt, der erst beim Vergößerung sichtbar werden würde. Mit jeder Zelle sind genetische und phänotypische Merkmale verknüpft. Alle Zellen sind mit einer Linie miteinander verbunden. Je ähnlicher sich zwei Zellen in Hinblick auf ihre Merkmale sind, desto näher werden sie zusammengerückt. So entstehen Anhäufungen ähnlicher Zellen.</figcaption>
@@ -729,14 +725,13 @@ permalink: /galleryplay/
 <b onclick="currentDiv(2, 3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(3, 3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(4, 3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(5, 3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(5, 3)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(6, 3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(7, 3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(8, 3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(9, 3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(10, 3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(11, 3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(12, 3)">●</b> 
+<b onclick="currentDiv(11, 3)">●</b> 
 </center>
 <img src="/dummie/images/biodummie.037.png" onclick="plusDivs(+1, 3)">
 <figcaption><b>Abb. 3.4: </b>Springende Gene in unserem Genom. Lassen Sie sich von diesem sehr sehr detaillierten Blick in unser Genom nicht abschrecken. Ich möchte Ihnen einfach einmal zeigen, wie ein springendes Gen in »echt« aussieht. Dieses sogenannte <i>Alu</i>-Element ist die häufigste, auf allen Chromosomen über eine Millionen mal wiederholt vorkommende DNA-Sequenz. Zwar gibt es immer kleine Variationen in der Abfolge der Basenpaare, aber der Grundaufbau, hier grau unterlegt, ist immer gleich.</figcaption>
@@ -748,13 +743,12 @@ permalink: /galleryplay/
 <b onclick="currentDiv(3, 3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(4, 3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(5, 3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(6, 3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(6, 3)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(7, 3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(8, 3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(9, 3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(10, 3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(11, 3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(12, 3)">●</b> 
+<b onclick="currentDiv(11, 3)">●</b> 
 </center>
 <img src="/dummie/images/biodummie.038.png" onclick="plusDivs(+1, 3)">
 <figcaption><b>Abb. 3.5: </b>Vergleich der Anzahl der <i>Alu</i>-Elemente, die für Orang-Utans, Schimpansen und Menschen (von oben nach unten) jeweils spezifisch sind.</figcaption>
@@ -767,12 +761,11 @@ permalink: /galleryplay/
 <b onclick="currentDiv(4, 3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(5, 3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(6, 3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(7, 3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(7, 3)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(8, 3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(9, 3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(10, 3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(11, 3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(12, 3)">●</b> 
+<b onclick="currentDiv(11, 3)">●</b> 
 </center>
 <img src="/dummie/images/biodummie.039.png" onclick="plusDivs(+1, 3)">
 <figcaption><b>Abb. 3.6: </b>Die Entwicklung der modernen Weizensorten aus ertragsarmen Gänsefußgras und Wildeinkorn. A und B und C kennzeichnen jeweils eigenständige Chromosomensätze, bestehend aus jeweils sieben Chromosomen. Neben der Artbildung durch diploide Divergenz, spielten auch allopolyploide Genomfusionen eine wichtige Rolle bei der Evolution der Genome. T.: <i>Triticum</i>.</figcaption>
@@ -786,11 +779,10 @@ permalink: /galleryplay/
 <b onclick="currentDiv(5, 3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(6, 3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(7, 3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(8, 3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(8, 3)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(9, 3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(10, 3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(11, 3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(12, 3)">●</b> 
+<b onclick="currentDiv(11, 3)">●</b> 
 </center>
 <img src="/dummie/images/biodummie.041.png" onclick="plusDivs(+1, 3)">
 <figcaption><b>Abb. 3.7: </b>Umfang verschiedener Versionen des Humanen Genoms und deren Veröffentlichung. Als im Jahr 2000 die DNA-Sequenz des humanen Erbguts veröffentlicht wurde, was sie noch lange nicht vollständig. Zwanzig Jahre später sind immerhin knapp 96 Prozent komplettiert.</figcaption>
@@ -805,10 +797,9 @@ permalink: /galleryplay/
 <b onclick="currentDiv(6, 3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(7, 3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(8, 3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(9, 3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(9, 3)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(10, 3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(11, 3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(12, 3)">●</b> 
+<b onclick="currentDiv(11, 3)">●</b> 
 </center>
 <img src="/dummie/images/biodummie.042.png" onclick="plusDivs(+1, 3)">
 <figcaption><b>Abb. 3.8: </b>Herkunft der 1.000 Genome. Aus sechsundzwanzig Populationen wurden insgesamt 2.504 Individuen sequenziert. Aus 26 Populationen wurden insgesamt 2.504 Individuen sequenziert. Die Größe der Kreise entspricht der beobachteten Anzahl von Sequenzvarianten, die zwischen 12 und 24 Millionen variierte. Der Drei-Buchstaben-Code bezeichnet die Region. Für Europa (EUR) sind dies: Einwohner von Utah mit nord- und westeuropäischer Abstammung (CEU); Briten in England und Schottland (GBR); Finnen (FIN); Iberische Populationen in Spanien (IBS); Toskana in Italien (TSI).</figcaption>
@@ -824,9 +815,8 @@ permalink: /galleryplay/
 <b onclick="currentDiv(7, 3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(8, 3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(9, 3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(10, 3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(11, 3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(12, 3)">●</b> 
+<b onclick="currentDiv(10, 3)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(11, 3)">●</b> 
 </center>
 <img src="/dummie/images/biodummie.043.png" onclick="plusDivs(+1, 3)">
 <figcaption><b>Abb. 3.9: </b>Die kambrische Artenexplosion (Radiation) bei den Tieren. Im Erdzeitalter des Kambriums vor etwa 541 Millionen Jahren kam es zu einer enormen Zunahme von Körperbauplänen. Die Grundlage dafür waren neue genetische Schaltkreise. Besonders erfolgreich war die Radiation der Gruppe der Bilateria. Diese zeichnen sich dadurch aus, das die linke und rechte Hälfte eines Organismus zueinander spiegelsymmetrisch (bilateralsymmetrisch) sind. Die dicken Balken geben Lebenszeiträume der Stämme an, die dünnen Linien deren evolutionäre Verwandtschaft.</figcaption>
@@ -843,8 +833,7 @@ permalink: /galleryplay/
 <b onclick="currentDiv(8, 3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(9, 3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(10, 3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(11, 3)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(12, 3)">●</b> 
+<b onclick="currentDiv(11, 3)">▼</b> 
 </center>
 <img src="/dummie/images/biodummie.044.png" onclick="plusDivs(+1, 3)">
 <figcaption><b>Abb. 3.10: </b>Das <i>Hox</i>-Gencluster. Eine sehr vereinfachte Darstellung der Kolinearität der <i>Hox</i>-Gene. In derselben Reihenfolge, in der die <i>Hox</i>-Gene auf dem Chromosom liegen, werden sind sie auch entlang der Körperachse während der Individualentwicklung aktiv. Die sieben dargestellten Gene stellen den evolutionären Ausgangspunkt dar. Die Taufliege <i>Drosophila</i> hat ein Cluster mit acht <i>Hox</i>-Genen; der Mensch vier Cluster mit insgesamt 39 <i>Hox</i>-Genen.Verändert nach Hueber <i>et al.</i> (2010) doi: <a href="https://doi.org/10.1371/journal.pone.0010820">10.1371/journal.pone.0010820</a>.</figcaption>
@@ -857,7 +846,7 @@ permalink: /galleryplay/
 
 <figure class="dummieChapter_4" >
 <center><br>
-<b onclick="currentDiv(1, 4)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(1, 4)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(2, 4)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(3, 4)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(4, 4)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
@@ -869,7 +858,7 @@ permalink: /galleryplay/
 <figure class="dummieChapter_4" >
 <center><br>
 <b onclick="currentDiv(1, 4)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(2, 4)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(2, 4)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(3, 4)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(4, 4)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(5, 4)">●</b> 
@@ -881,7 +870,7 @@ permalink: /galleryplay/
 <center><br>
 <b onclick="currentDiv(1, 4)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(2, 4)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(3, 4)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(3, 4)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(4, 4)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(5, 4)">●</b> 
 </center>
@@ -893,7 +882,7 @@ permalink: /galleryplay/
 <b onclick="currentDiv(1, 4)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(2, 4)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(3, 4)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(4, 4)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(4, 4)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(5, 4)">●</b> 
 </center>
 <img src="/dummie/images/biodummie.048.png" onclick="plusDivs(+1, 4)">
@@ -905,7 +894,7 @@ permalink: /galleryplay/
 <b onclick="currentDiv(2, 4)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(3, 4)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(4, 4)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(5, 4)">●</b> 
+<b onclick="currentDiv(5, 4)">▼</b> 
 </center>
 <img src="/dummie/images/biodummie.049.png" onclick="plusDivs(+1, 4)">
 <figcaption><b>Abb. 4.4: </b>Die 0,9 Prozent Regel bei Pollen als Zutat oder Bestandteil von Honig. Die EU-Verordnung lässt 0,9 Prozent als unvermeidliche »Verunreinigung« einer Zutat mit gentechnisch veränderten Organismen (GVO) zu. Wenn der GVO in der EU nicht zugelassen ist, gilt allerdings die Nulltoleranz. Von 2011 bis 2014 galt Pollen im Honig als Zutat.</figcaption>
@@ -919,7 +908,7 @@ permalink: /galleryplay/
 
 <figure class="dummieChapter_5" >
 <center><br>
-<b onclick="currentDiv(1, 5)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(1, 5)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(2, 5)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(3, 5)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(4, 5)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
@@ -942,7 +931,7 @@ permalink: /galleryplay/
 <figure class="dummieChapter_5" >
 <center><br>
 <b onclick="currentDiv(1, 5)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(2, 5)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(2, 5)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(3, 5)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(4, 5)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(5, 5)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
@@ -965,7 +954,7 @@ permalink: /galleryplay/
 <center><br>
 <b onclick="currentDiv(1, 5)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(2, 5)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(3, 5)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(3, 5)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(4, 5)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(5, 5)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(6, 5)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
@@ -988,7 +977,7 @@ permalink: /galleryplay/
 <b onclick="currentDiv(1, 5)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(2, 5)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(3, 5)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(4, 5)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(4, 5)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(5, 5)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(6, 5)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(7, 5)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
@@ -1011,7 +1000,7 @@ permalink: /galleryplay/
 <b onclick="currentDiv(2, 5)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(3, 5)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(4, 5)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(5, 5)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(5, 5)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(6, 5)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(7, 5)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(8, 5)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
@@ -1034,7 +1023,7 @@ permalink: /galleryplay/
 <b onclick="currentDiv(3, 5)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(4, 5)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(5, 5)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(6, 5)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(6, 5)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(7, 5)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(8, 5)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(9, 5)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
@@ -1057,7 +1046,7 @@ permalink: /galleryplay/
 <b onclick="currentDiv(4, 5)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(5, 5)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(6, 5)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(7, 5)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(7, 5)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(8, 5)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(9, 5)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(10, 5)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
@@ -1080,7 +1069,7 @@ permalink: /galleryplay/
 <b onclick="currentDiv(5, 5)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(6, 5)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(7, 5)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(8, 5)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(8, 5)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(9, 5)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(10, 5)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(11, 5)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
@@ -1103,7 +1092,7 @@ permalink: /galleryplay/
 <b onclick="currentDiv(6, 5)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(7, 5)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(8, 5)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(9, 5)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(9, 5)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(10, 5)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(11, 5)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(12, 5)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
@@ -1126,7 +1115,7 @@ permalink: /galleryplay/
 <b onclick="currentDiv(7, 5)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(8, 5)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(9, 5)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(10, 5)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(10, 5)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(11, 5)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(12, 5)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(13, 5)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
@@ -1149,7 +1138,7 @@ permalink: /galleryplay/
 <b onclick="currentDiv(8, 5)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(9, 5)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(10, 5)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(11, 5)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(11, 5)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(12, 5)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(13, 5)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(14, 5)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
@@ -1172,7 +1161,7 @@ permalink: /galleryplay/
 <b onclick="currentDiv(9, 5)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(10, 5)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(11, 5)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(12, 5)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(12, 5)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(13, 5)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(14, 5)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(15, 5)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
@@ -1195,7 +1184,7 @@ permalink: /galleryplay/
 <b onclick="currentDiv(10, 5)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(11, 5)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(12, 5)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(13, 5)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(13, 5)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(14, 5)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(15, 5)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(16, 5)">●</b> 
@@ -1218,7 +1207,7 @@ permalink: /galleryplay/
 <b onclick="currentDiv(11, 5)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(12, 5)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(13, 5)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(14, 5)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(14, 5)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(15, 5)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(16, 5)">●</b> 
 </center>
@@ -1241,7 +1230,7 @@ permalink: /galleryplay/
 <b onclick="currentDiv(12, 5)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(13, 5)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(14, 5)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(15, 5)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(15, 5)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(16, 5)">●</b> 
 </center>
 <img src="/dummie/images/biodummie.064.png" onclick="plusDivs(+1, 5)">
@@ -1264,7 +1253,7 @@ permalink: /galleryplay/
 <b onclick="currentDiv(13, 5)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(14, 5)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(15, 5)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(16, 5)">●</b> 
+<b onclick="currentDiv(16, 5)">▼</b> 
 </center>
 <img src="/dummie/images/biodummie.065.png" onclick="plusDivs(+1, 5)">
 <figcaption><b>Abb. 5.15: </b>Der Kampf von Cas9 gegen die Phagen erinnert an Hamlet, Prinz von Dänemark von <i>William Shakespeare</i>. »<i>Sich waffnend gegen eine See von Plagen</i>«? Es ist nur eine kleine Buchstabenmutation, die uns zum Phagen bringt.</figcaption>
@@ -1277,7 +1266,7 @@ permalink: /galleryplay/
   <summary>Kapitel 6: Bändigung des Zufalls</summary>
 
 <center><br>
-<b onclick="currentDiv(1, 6)">●</b> 
+<b onclick="currentDiv(1, 6)">▼</b> 
 </center>
 <figure class="dummieChapter_6" >
 <img src="/dummie/images/biodummie.066.png" onclick="plusDivs(+1, 6)">
@@ -1292,7 +1281,7 @@ permalink: /galleryplay/
 
 <figure class="dummieChapter_7" >
 <center><br>
-<b onclick="currentDiv(1, 7)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(1, 7)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(2, 7)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(3, 7)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(4, 7)">●</b> 
@@ -1303,7 +1292,7 @@ permalink: /galleryplay/
 <figure class="dummieChapter_7" >
 <center><br>
 <b onclick="currentDiv(1, 7)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(2, 7)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(2, 7)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(3, 7)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(4, 7)">●</b> 
 </center>
@@ -1314,7 +1303,7 @@ permalink: /galleryplay/
 <center><br>
 <b onclick="currentDiv(1, 7)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(2, 7)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(3, 7)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(3, 7)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(4, 7)">●</b> 
 </center>
 <img src="/dummie/images/biodummie.069.png" onclick="plusDivs(+1, 7)">
@@ -1325,7 +1314,7 @@ permalink: /galleryplay/
 <b onclick="currentDiv(1, 7)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(2, 7)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(3, 7)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(4, 7)">●</b> 
+<b onclick="currentDiv(4, 7)">▼</b> 
 </center>
 <img src="/dummie/images/biodummie.070.png" onclick="plusDivs(+1, 7)">
 <figcaption><b>Abb. 7.3: </b>Induzierte pluripotente Stammzellen (iPS). Das Einbringen von vier Genen mittels retroviralen Vektoren in ausdifferenzierte Körperzellen programmiert diese zu pluripotenten Stammzellen um. Aus diesen kann wieder ein kompletter Organismus regeneriert werden.</figcaption>
@@ -1339,7 +1328,7 @@ permalink: /galleryplay/
 
 <figure class="dummieChapter_8" >
 <center><br>
-<b onclick="currentDiv(1, 8)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(1, 8)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(2, 8)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(3, 8)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(4, 8)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
@@ -1361,7 +1350,7 @@ permalink: /galleryplay/
 <figure class="dummieChapter_8" >
 <center><br>
 <b onclick="currentDiv(1, 8)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(2, 8)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(2, 8)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(3, 8)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(4, 8)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(5, 8)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
@@ -1383,7 +1372,7 @@ permalink: /galleryplay/
 <center><br>
 <b onclick="currentDiv(1, 8)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(2, 8)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(3, 8)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(3, 8)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(4, 8)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(5, 8)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(6, 8)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
@@ -1405,7 +1394,7 @@ permalink: /galleryplay/
 <b onclick="currentDiv(1, 8)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(2, 8)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(3, 8)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(4, 8)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(4, 8)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(5, 8)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(6, 8)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(7, 8)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
@@ -1427,7 +1416,7 @@ permalink: /galleryplay/
 <b onclick="currentDiv(2, 8)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(3, 8)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(4, 8)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(5, 8)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(5, 8)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(6, 8)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(7, 8)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(8, 8)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
@@ -1449,7 +1438,7 @@ permalink: /galleryplay/
 <b onclick="currentDiv(3, 8)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(4, 8)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(5, 8)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(6, 8)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(6, 8)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(7, 8)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(8, 8)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(9, 8)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
@@ -1471,7 +1460,7 @@ permalink: /galleryplay/
 <b onclick="currentDiv(4, 8)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(5, 8)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(6, 8)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(7, 8)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(7, 8)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(8, 8)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(9, 8)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(10, 8)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
@@ -1493,7 +1482,7 @@ permalink: /galleryplay/
 <b onclick="currentDiv(5, 8)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(6, 8)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(7, 8)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(8, 8)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(8, 8)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(9, 8)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(10, 8)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(11, 8)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
@@ -1515,7 +1504,7 @@ permalink: /galleryplay/
 <b onclick="currentDiv(6, 8)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(7, 8)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(8, 8)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(9, 8)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(9, 8)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(10, 8)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(11, 8)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(12, 8)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
@@ -1537,7 +1526,7 @@ permalink: /galleryplay/
 <b onclick="currentDiv(7, 8)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(8, 8)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(9, 8)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(10, 8)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(10, 8)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(11, 8)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(12, 8)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(13, 8)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
@@ -1559,7 +1548,7 @@ permalink: /galleryplay/
 <b onclick="currentDiv(8, 8)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(9, 8)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(10, 8)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(11, 8)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(11, 8)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(12, 8)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(13, 8)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(14, 8)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
@@ -1581,7 +1570,7 @@ permalink: /galleryplay/
 <b onclick="currentDiv(9, 8)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(10, 8)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(11, 8)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(12, 8)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(12, 8)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(13, 8)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(14, 8)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(15, 8)">●</b> 
@@ -1603,7 +1592,7 @@ permalink: /galleryplay/
 <b onclick="currentDiv(10, 8)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(11, 8)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(12, 8)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(13, 8)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(13, 8)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(14, 8)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(15, 8)">●</b> 
 </center>
@@ -1625,7 +1614,7 @@ permalink: /galleryplay/
 <b onclick="currentDiv(11, 8)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(12, 8)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(13, 8)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(14, 8)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(14, 8)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(15, 8)">●</b> 
 </center>
 <img src="/dummie/images/biodummie.084.png" onclick="plusDivs(+1, 8)">
@@ -1647,7 +1636,7 @@ permalink: /galleryplay/
 <b onclick="currentDiv(12, 8)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(13, 8)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(14, 8)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(15, 8)">●</b> 
+<b onclick="currentDiv(15, 8)">▼</b> 
 </center>
 <img src="/dummie/images/biodummie.085.png" onclick="plusDivs(+1, 8)">
 <figcaption><b>Abb. 8.11: </b>Das klassische und vereinfachte Schema der Vererbung der Augenfarbe. Die beiden Augen in der oberen Zeile symbolisieren jeweils die elterlichen Augen. Darunter sind die üblichen Verteilungen der Irisfarben der Kinder angegeben.</figcaption>
@@ -1660,7 +1649,7 @@ permalink: /galleryplay/
 
 <figure class="dummieChapter_9" >
 <center><br>
-<b onclick="currentDiv(1, 9)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(1, 9)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(2, 9)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(3, 9)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(4, 9)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
@@ -1672,7 +1661,7 @@ permalink: /galleryplay/
 <figure class="dummieChapter_9" >
 <center><br>
 <b onclick="currentDiv(1, 9)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(2, 9)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(2, 9)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(3, 9)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(4, 9)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(5, 9)">●</b> 
@@ -1684,7 +1673,7 @@ permalink: /galleryplay/
 <center><br>
 <b onclick="currentDiv(1, 9)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(2, 9)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(3, 9)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(3, 9)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(4, 9)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(5, 9)">●</b> 
 </center>
@@ -1696,7 +1685,7 @@ permalink: /galleryplay/
 <b onclick="currentDiv(1, 9)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(2, 9)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(3, 9)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(4, 9)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(4, 9)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(5, 9)">●</b> 
 </center>
 <img src="/dummie/images/biodummie.089.png" onclick="plusDivs(+1, 9)">
@@ -1708,7 +1697,7 @@ permalink: /galleryplay/
 <b onclick="currentDiv(2, 9)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(3, 9)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(4, 9)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(5, 9)">●</b> 
+<b onclick="currentDiv(5, 9)">▼</b> 
 </center>
 <img src="/dummie/images/biodummie.090.png" onclick="plusDivs(+1, 9)">
 <figcaption><b>Abb. 9.4: </b>Herstellung von <i>Mycoplasma mycoides</i> JCVI-syn1.0. Nach der vollständigen chemische Synthese des Chromosoms von <i>Mycoplasma mycoides</i> und Rückführung in eine <i>Mycoplasma mycoides</i> Zelle, wurde diese mit <i>Mycoplasma capricolum</i> fusioniert. Neben Wasserzeichen enthält das synthetische Erbgut Code für eine Nuklease, die das <i>M. capricolum</i> Genom abbaut. Mit dem Ablesen (»booten«) des neuen Genom, beginnt daher die genotypische und phänotypische Verwandlung (»Umprogrammierung«) von <i>M. capricolum</i> in <i>M. mycoides</i></figcaption>
@@ -1722,7 +1711,7 @@ permalink: /galleryplay/
 
 <figure class="dummieChapter_10" >
 <center><br>
-<b onclick="currentDiv(1, 10)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(1, 10)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(2, 10)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(3, 10)">●</b> 
 </center>
@@ -1732,7 +1721,7 @@ permalink: /galleryplay/
 <figure class="dummieChapter_10" >
 <center><br>
 <b onclick="currentDiv(1, 10)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(2, 10)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(2, 10)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(3, 10)">●</b> 
 </center>
 <img src="/dummie/images/biodummie.092.png" onclick="plusDivs(+1, 10)">
@@ -1742,7 +1731,7 @@ permalink: /galleryplay/
 <center><br>
 <b onclick="currentDiv(1, 10)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(2, 10)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(3, 10)">●</b> 
+<b onclick="currentDiv(3, 10)">▼</b> 
 </center>
 <img src="/dummie/images/biodummie.093.png" onclick="plusDivs(+1, 10)">
 <figcaption><b>Abb. 10.2: </b>Die Aminosäuresequenz des Cas9-Proteins. Diese 1.372 Aminosäuren lange Proteinkette, die von oben links nach unten rechts verläuft, faltet sich dreidimensional in die Struktur der Cas9-Endonuklease, wie sie auf dem Buchdeckel zu sehen ist. Das Programm <i>AlphaZero</i> kann diese Faltung vorhersagen.</figcaption>
@@ -1756,7 +1745,7 @@ permalink: /galleryplay/
 
 <figure class="dummieChapter_11" >
 <center><br>
-<b onclick="currentDiv(1, 11)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(1, 11)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(2, 11)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(3, 11)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(4, 11)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
@@ -1768,7 +1757,7 @@ permalink: /galleryplay/
 <figure class="dummieChapter_11" >
 <center><br>
 <b onclick="currentDiv(1, 11)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(2, 11)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(2, 11)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(3, 11)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(4, 11)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(5, 11)">●</b> 
@@ -1780,7 +1769,7 @@ permalink: /galleryplay/
 <center><br>
 <b onclick="currentDiv(1, 11)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(2, 11)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(3, 11)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(3, 11)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(4, 11)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(5, 11)">●</b> 
 </center>
@@ -1792,7 +1781,7 @@ permalink: /galleryplay/
 <b onclick="currentDiv(1, 11)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(2, 11)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(3, 11)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(4, 11)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(4, 11)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(5, 11)">●</b> 
 </center>
 <img src="/dummie/images/biodummie.097.png" onclick="plusDivs(+1, 11)">
@@ -1804,7 +1793,7 @@ permalink: /galleryplay/
 <b onclick="currentDiv(2, 11)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(3, 11)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(4, 11)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(5, 11)">●</b> 
+<b onclick="currentDiv(5, 11)">▼</b> 
 </center>
 <img src="/dummie/images/biodummie.098.png" onclick="plusDivs(+1, 11)">
 <figcaption><b>Abb. 11.3: </b>Die Rettung des Schwarzfußiltis. Mitte der 1980er Jahre wurde aus sieben Tieren eine Zuchtpopulation aufgebaut und in den nachfolgenden Jahre ausgewildert. Um die genetische Diversität zu erhöhen, wurde 2010 Balboa über eine künstliche Befruchtung aus tiefgefrorenen Spermien und einer lebenden Mutter gezeugt. Sie wurde zur Weiterzucht verwendet. Im Dezember 2020 gelang die das Klonen eines 1985 gefangenen, verstorbenen und tiefgekühlten Tieres.</figcaption>
@@ -1818,7 +1807,7 @@ permalink: /galleryplay/
 
 <figure class="dummieChapter_12" >
 <center><br>
-<b onclick="currentDiv(1, 12)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(1, 12)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(2, 12)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(3, 12)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(4, 12)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
@@ -1830,7 +1819,7 @@ permalink: /galleryplay/
 <figure class="dummieChapter_12" >
 <center><br>
 <b onclick="currentDiv(1, 12)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(2, 12)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(2, 12)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(3, 12)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(4, 12)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(5, 12)">●</b> 
@@ -1842,7 +1831,7 @@ permalink: /galleryplay/
 <center><br>
 <b onclick="currentDiv(1, 12)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(2, 12)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(3, 12)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(3, 12)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(4, 12)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(5, 12)">●</b> 
 </center>
@@ -1854,7 +1843,7 @@ permalink: /galleryplay/
 <b onclick="currentDiv(1, 12)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(2, 12)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(3, 12)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(4, 12)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(4, 12)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(5, 12)">●</b> 
 </center>
 <img src="/dummie/images/biodummie.102.png" onclick="plusDivs(+1, 12)">
@@ -1866,7 +1855,7 @@ permalink: /galleryplay/
 <b onclick="currentDiv(2, 12)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(3, 12)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(4, 12)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(5, 12)">●</b> 
+<b onclick="currentDiv(5, 12)">▼</b> 
 </center>
 <img src="/dummie/images/biodummie.103.png" onclick="plusDivs(+1, 12)">
 <figcaption><b>Abb. 12.3: </b>Wege zum Geschlecht. Die Geschlechtsfestlegung über X- und Y-Chromosomen führt zu einem Gendosisproblem: Bei einem Geschlecht liegen doppelt so viele X-Allele vor, als bei dem anderen. Das Ausschalten eines X-Chromosoms oder Herunterfahren der Genaktivität auf beiden X-Chromosomen löst das Problem.</figcaption>
@@ -1880,7 +1869,7 @@ permalink: /galleryplay/
 
 <figure class="dummieChapter_13" >
 <center><br>
-<b onclick="currentDiv(1, 13)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(1, 13)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(2, 13)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(3, 13)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(4, 13)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
@@ -1895,7 +1884,7 @@ permalink: /galleryplay/
 <figure class="dummieChapter_13" >
 <center><br>
 <b onclick="currentDiv(1, 13)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(2, 13)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(2, 13)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(3, 13)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(4, 13)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(5, 13)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
@@ -1910,7 +1899,7 @@ permalink: /galleryplay/
 <center><br>
 <b onclick="currentDiv(1, 13)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(2, 13)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(3, 13)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(3, 13)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(4, 13)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(5, 13)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(6, 13)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
@@ -1925,7 +1914,7 @@ permalink: /galleryplay/
 <b onclick="currentDiv(1, 13)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(2, 13)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(3, 13)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(4, 13)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(4, 13)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(5, 13)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(6, 13)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(7, 13)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
@@ -1940,7 +1929,7 @@ permalink: /galleryplay/
 <b onclick="currentDiv(2, 13)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(3, 13)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(4, 13)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(5, 13)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(5, 13)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(6, 13)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(7, 13)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(8, 13)">●</b> 
@@ -1955,7 +1944,7 @@ permalink: /galleryplay/
 <b onclick="currentDiv(3, 13)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(4, 13)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(5, 13)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(6, 13)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(6, 13)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(7, 13)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(8, 13)">●</b> 
 </center>
@@ -1970,7 +1959,7 @@ permalink: /galleryplay/
 <b onclick="currentDiv(4, 13)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(5, 13)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(6, 13)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(7, 13)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(7, 13)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(8, 13)">●</b> 
 </center>
 <img src="/dummie/images/biodummie.110.png" onclick="plusDivs(+1, 13)">
@@ -1985,7 +1974,7 @@ permalink: /galleryplay/
 <b onclick="currentDiv(5, 13)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(6, 13)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(7, 13)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(8, 13)">●</b> 
+<b onclick="currentDiv(8, 13)">▼</b> 
 </center>
 <img src="/dummie/images/biodummie.111.png" onclick="plusDivs(+1, 13)">
 <figcaption><b>Abb. 13.7: </b>Erste Anwendung der Genschere CRISPR/Cas in der menschlichen Keimbahn. Das Ziel des Eingriffs war die Zerstörung der Funktion des CCR5-Rezeptor codierenden Gens auf Chromosom 3. Bei Lulu wurde nur in einem Allel eine fünfzehn Basenpaare Deletion erzielt. Dem resultierenden Protein fehlen intern fünf Aminosäuren. Bei Nana wurde eine vier Basenpaare große Deletion und eine ein Basenpaar große Insertion erreicht. Beides führt zu Leserasterverschiebungen und vorzeitigem Abbruch der Translation durch das Entstehen von Stopcodons.</figcaption>
@@ -1997,7 +1986,7 @@ permalink: /galleryplay/
   <summary>Kapitel 14: Wie Transhumanisten uns für die Zukunft wappnen (wollen)</summary>
 
 <center><br>
-<b onclick="currentDiv(1, 14)">●</b> 
+<b onclick="currentDiv(1, 14)">▼</b> 
 </center>
 <figure class="dummieChapter_14" >
 <img src="/dummie/images/biodummie.112.png" onclick="plusDivs(+1, 14)">
@@ -2012,7 +2001,7 @@ permalink: /galleryplay/
 
 <figure class="dummieChapter_15" >
 <center><br>
-<b onclick="currentDiv(1, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(1, 15)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(2, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(3, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(4, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
@@ -2036,7 +2025,7 @@ permalink: /galleryplay/
 <figure class="dummieChapter_15" >
 <center><br>
 <b onclick="currentDiv(1, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(2, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(2, 15)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(3, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(4, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(5, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
@@ -2060,7 +2049,7 @@ permalink: /galleryplay/
 <center><br>
 <b onclick="currentDiv(1, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(2, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(3, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(3, 15)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(4, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(5, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(6, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
@@ -2084,7 +2073,7 @@ permalink: /galleryplay/
 <b onclick="currentDiv(1, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(2, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(3, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(4, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(4, 15)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(5, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(6, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(7, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
@@ -2108,7 +2097,7 @@ permalink: /galleryplay/
 <b onclick="currentDiv(2, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(3, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(4, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(5, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(5, 15)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(6, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(7, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(8, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
@@ -2132,7 +2121,7 @@ permalink: /galleryplay/
 <b onclick="currentDiv(3, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(4, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(5, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(6, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(6, 15)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(7, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(8, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(9, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
@@ -2156,7 +2145,7 @@ permalink: /galleryplay/
 <b onclick="currentDiv(4, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(5, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(6, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(7, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(7, 15)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(8, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(9, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(10, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
@@ -2180,7 +2169,7 @@ permalink: /galleryplay/
 <b onclick="currentDiv(5, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(6, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(7, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(8, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(8, 15)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(9, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(10, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(11, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
@@ -2204,7 +2193,7 @@ permalink: /galleryplay/
 <b onclick="currentDiv(6, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(7, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(8, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(9, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(9, 15)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(10, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(11, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(12, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
@@ -2228,7 +2217,7 @@ permalink: /galleryplay/
 <b onclick="currentDiv(7, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(8, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(9, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(10, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(10, 15)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(11, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(12, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(13, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
@@ -2252,7 +2241,7 @@ permalink: /galleryplay/
 <b onclick="currentDiv(8, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(9, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(10, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(11, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(11, 15)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(12, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(13, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(14, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
@@ -2276,7 +2265,7 @@ permalink: /galleryplay/
 <b onclick="currentDiv(9, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(10, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(11, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(12, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(12, 15)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(13, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(14, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(15, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
@@ -2300,7 +2289,7 @@ permalink: /galleryplay/
 <b onclick="currentDiv(10, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(11, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(12, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(13, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(13, 15)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(14, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(15, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(16, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
@@ -2324,7 +2313,7 @@ permalink: /galleryplay/
 <b onclick="currentDiv(11, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(12, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(13, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(14, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(14, 15)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(15, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(16, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(17, 15)">●</b> 
@@ -2332,25 +2321,6 @@ permalink: /galleryplay/
 <img src="/dummie/images/biodummie.126.png" onclick="plusDivs(+1, 15)">
 <figcaption><b>Abb. 15.12: </b>Die genetische Variabilität verschiedener Viren und die Verfügbarkeit von Impfstoffen. Bei SARS-CoV-2 und Ebola ist die genetische Variabilität hundertfach vergrößert. Im Januar 2020 war die Variabilität von SARS-CoV-2 noch recht gering. Die große Sorge besteht darin, dass sie durch Rekombination rasant größer wird und das Ausmaß der Influenza A Viren erreicht. Hier kann nur mit großem Aufwand ein vergleichsweise schlecht wirkender Impfstoff bereitgestellt werden, der jährlich angepasst werden muss.</figcaption>
 </figure>
-<center><br>
-<b onclick="currentDiv(1, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(2, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(3, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(4, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(5, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(6, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(7, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(8, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(9, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(10, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(11, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(12, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(13, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(14, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(15, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(16, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(17, 15)">●</b> 
-</center>
 <figure class="dummieChapter_15" >
 <center><br>
 <b onclick="currentDiv(1, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
@@ -2367,7 +2337,7 @@ permalink: /galleryplay/
 <b onclick="currentDiv(12, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(13, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(14, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(15, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(15, 15)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(16, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(17, 15)">●</b> 
 </center>
@@ -2391,7 +2361,7 @@ permalink: /galleryplay/
 <b onclick="currentDiv(13, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(14, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(15, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(16, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(16, 15)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(17, 15)">●</b> 
 </center>
 <img src="/dummie/images/biodummie.128.png" onclick="plusDivs(+1, 15)">
@@ -2415,7 +2385,7 @@ permalink: /galleryplay/
 <b onclick="currentDiv(14, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(15, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(16, 15)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
-<b onclick="currentDiv(17, 15)">●</b> 
+<b onclick="currentDiv(17, 15)">▼</b> 
 </center>
 <img src="/dummie/images/biodummie.129.png" onclick="plusDivs(+1, 15)">
 <figcaption><b>Abb. 15.15: </b>Wirkung von Mutation und Rekombination. Ständig auftretende Mutationen verändern das Virus leicht und führen zum <i>Genetic Shift</i>. Infizieren zwei oder mehr genetisch unterschiedliche Virusvarianten dieselbe Zelle, kann es zum genetischen Austausch zwischen den Varianten kommen. Dieser <i>Genetic Drift</i> infolge von Rekombinationsereignissen führt zu größeren, oft sprunghaften Veränderungen.</figcaption>
