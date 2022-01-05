@@ -4,7 +4,7 @@ title: Test Bildgallerie
 permalink: /galleryplay/
 ---
 
- Klicken Sie auf eine Abbildung, um dass nächste Bild zu sehen. Alternativ können Sie auf die schwarzen Punkte klicken, um vorwärts und zurück zu navigieren.
+done2 Klicken Sie auf eine Abbildung, um dass nächste Bild zu sehen. Alternativ können Sie auf die schwarzen Punkte klicken, um vorwärts und zurück zu navigieren.
 
 <details>
   <summary>Einleitung</summary>
@@ -71,7 +71,7 @@ permalink: /galleryplay/
   <summary>Kapitel 1: Die Welt der Gene</summary>
 
 <figure class="dummieChapter_1" >
-<center><br><span style="font-size:1vw;">
+<center><br><span style="font-size:2vw;">
 <b onclick="currentDiv(1, 1)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(2, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(3, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
