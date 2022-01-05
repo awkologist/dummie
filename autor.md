@@ -20,9 +20,10 @@ permalink: /autor/
       style="position:absolute;top:0;left:0;width:100%;height:100%;max-width:600"></iframe>
   </div>
 </div>
+<br>
 </details>
 
-<br>
+<br><br>
 Hier geht es zu seiner [Homepage](https://www.staff.hs-mittweida.de/~wuenschi). 
 
 Werfen Sie auch einen Blick auf seine weiteren Bücher und Buchbeiträge: [Amazon](https://www.amazon.de/R%25C3%25B6bbe-W%25C3%25BCnschiers/e/B001K6M8OY%3Fref=dbs_a_mng_rwt_scns_share)
