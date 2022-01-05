@@ -11,7 +11,7 @@ Klicken Sie auf eine Abbildung, um dass nächste Bild zu sehen. Alternativ könn
 
 <figure class="dummieChapter_0" >
 <center><br>
-<b onclick="currentDiv(1, 0)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<b onclick="currentDiv(1, 0)"><span style="color:red">▼</span>&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(2, 0)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(3, 0)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(4, 0)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
