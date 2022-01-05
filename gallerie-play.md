@@ -10,13 +10,13 @@ Klicken Sie auf eine Abbildung, um dass nächste Bild zu sehen. Alternativ könn
   <summary>Einleitung</summary>
 
 <figure class="dummieChapter_0" >
-<center><br>
-<b onclick="currentDiv(1, 0)"><span style="color:red">▼</span>&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+<center><br><span style="font-size:5vw;">
+<b onclick="currentDiv(1, 0)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(2, 0)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(3, 0)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(4, 0)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(5, 0)">●</b> 
-</center>
+</span></center>
 <img src="/dummie/images/biodummie.001.png" onclick="plusDivs(+1, 0)">
 <figcaption>Kunst am Buch – von Kerstin Zentner.</figcaption>
 </figure>
