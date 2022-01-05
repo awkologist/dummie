@@ -3,7 +3,9 @@ layout: page
 title: Autor Testseite
 permalink: /autorplay/
 ---
-new5
+new6
+
+![Image description](rwsmall.png)
 
 <table>
   <tr>
