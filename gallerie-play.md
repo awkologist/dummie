@@ -4,13 +4,13 @@ title: Test Bildgallerie
 permalink: /galleryplay/
 ---
 
-Klicken Sie auf eine Abbildung, um dass nächste Bild zu sehen. Alternativ können Sie auf die schwarzen Punkte klicken, um vorwärts und zurück zu navigieren.
+done Klicken Sie auf eine Abbildung, um dass nächste Bild zu sehen. Alternativ können Sie auf die schwarzen Punkte klicken, um vorwärts und zurück zu navigieren.
 
 <details>
   <summary>Einleitung</summary>
 
 <figure class="dummieChapter_0" >
-<center><br><span style="font-size:5vw;">
+<center><br><span style="font-size:1vw;">
 <b onclick="currentDiv(1, 0)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(2, 0)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(3, 0)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
