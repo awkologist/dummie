@@ -4,7 +4,7 @@ title: Test Bildgallerie
 permalink: /galleryplay/
 ---
 
-clamp Klicken Sie auf eine Abbildung, um dass nächste Bild zu sehen. Alternativ können Sie auf die schwarzen Punkte klicken, um vorwärts und zurück zu navigieren.
+clamp2 Klicken Sie auf eine Abbildung, um dass nächste Bild zu sehen. Alternativ können Sie auf die schwarzen Punkte klicken, um vorwärts und zurück zu navigieren.
 
 <details>
   <summary>Einleitung</summary>
@@ -71,7 +71,7 @@ clamp Klicken Sie auf eine Abbildung, um dass nächste Bild zu sehen. Alternativ
   <summary>Kapitel 1: Die Welt der Gene</summary>
 
 <figure class="dummieChapter_1" >
-<center><br><span style="font-size:clamp( 1rem, 1.5vw, 2rem);">
+<center><br><span style="font-size:clamp( 1.5vw, 1.5vw, 1.5rem);">
 <b onclick="currentDiv(1, 1)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(2, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(3, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
