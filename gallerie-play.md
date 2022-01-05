@@ -4,7 +4,7 @@ title: Test Bildgallerie
 permalink: /galleryplay/
 ---
 
-done Klicken Sie auf eine Abbildung, um dass nächste Bild zu sehen. Alternativ können Sie auf die schwarzen Punkte klicken, um vorwärts und zurück zu navigieren.
+ Klicken Sie auf eine Abbildung, um dass nächste Bild zu sehen. Alternativ können Sie auf die schwarzen Punkte klicken, um vorwärts und zurück zu navigieren.
 
 <details>
   <summary>Einleitung</summary>
@@ -71,7 +71,7 @@ done Klicken Sie auf eine Abbildung, um dass nächste Bild zu sehen. Alternativ 
   <summary>Kapitel 1: Die Welt der Gene</summary>
 
 <figure class="dummieChapter_1" >
-<center><br>
+<center><br><span style="font-size:1vw;">
 <b onclick="currentDiv(1, 1)">▼&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(2, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(3, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
@@ -90,7 +90,7 @@ done Klicken Sie auf eine Abbildung, um dass nächste Bild zu sehen. Alternativ 
 <b onclick="currentDiv(16, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(17, 1)">●&nbsp;&nbsp;&nbsp;&nbsp;</b> 
 <b onclick="currentDiv(18, 1)">●</b> 
-</center>
+</span></center>
 <img src="/dummie/images/biodummie.006.png" onclick="plusDivs(+1, 1)">
 <figcaption>Kunst am Buch – von Kerstin Zentner.</figcaption>
 </figure>
