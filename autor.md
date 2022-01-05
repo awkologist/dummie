@@ -10,7 +10,8 @@ permalink: /autor/
     <td style="width:80%">Röbbe Wünschiers ist promovierter Pflanzenphysiologe (Philipps-Universität Marburg) und habilitierter Genetiker (Universität zu Köln). Er lehrt an der Hochschule Mittweida als Professor für Biochemie/Molekularbiologie und forscht aktiv am Thema genetische Diversität. Dabei wendet sein Team genomische und bioinformatische Methoden bei Schafpudeln, Bienen und Bakterien an. </td>
   </tr>
  </table>
- 
+<br>
+
 <details>
   <summary>Videoportrait des Autors, 2018</summary>
 
