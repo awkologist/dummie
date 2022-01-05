@@ -3,11 +3,18 @@ layout: page
 title: Autor Testseite
 permalink: /autorplay/
 ---
-new3
+new4
 
 <table>
   <tr>
     <td><img src="rwsmall.png" alt="Autor" class="responsive"></td>
+    <td>Röbbe Wünschiers ist promovierter Pflanzenphysiologe (Philipps-Universität Marburg) und habilitierter Genetiker (Universität zu Köln). Er lehrt an der Hochschule Mittweida als Professor für Biochemie/Molekularbiologie und forscht aktiv am Thema genetische Diversität. Dabei wendet sein Team genomische und bioinformatische Methoden bei Schafpudeln, Bienen und Bakterien an. </td>
+  </tr>
+ </table>
+ 
+ <table>
+  <tr>
+    <td><img src="cover-dummie.png" alt="Cover" class="responsive"></td>
     <td>Röbbe Wünschiers ist promovierter Pflanzenphysiologe (Philipps-Universität Marburg) und habilitierter Genetiker (Universität zu Köln). Er lehrt an der Hochschule Mittweida als Professor für Biochemie/Molekularbiologie und forscht aktiv am Thema genetische Diversität. Dabei wendet sein Team genomische und bioinformatische Methoden bei Schafpudeln, Bienen und Bakterien an. </td>
   </tr>
  </table>
