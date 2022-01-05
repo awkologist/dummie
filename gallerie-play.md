@@ -10,6 +10,13 @@ permalink: /galleryplay/
 
 <iframe max-width="600" width="90%" height="auto" src="https://www.youtube.com/embed/OL33AcXbOLA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<div>
+  <div style="position:relative;padding-top:56.25%;">
+    <iframe src="https://www.youtube.com/embed/OL33AcXbOLA" frameborder="0" allowfullscreen
+      style="position:absolute;top:0;left:0;width:100%;height:100%;max-width:600"></iframe>
+  </div>
+</div>
+
 ## level 2
 
 # level 1
