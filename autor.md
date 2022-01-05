@@ -4,18 +4,15 @@ title: Autor
 permalink: /autor/
 ---
 
-Röbbe Wünschiers ist promovierter Pflanzenphysiologe (Philipps-Universität Marburg) und habilitierter Genetiker (Universität zu Köln). Er lehrt an der Hochschule Mittweida als Professor für Biochemie/Molekularbiologie und forscht aktiv am Thema genetische Diversität. Dabei wendet sein Team genomische und bioinformatische Methoden bei Schafpudeln, Bienen und Bakterien an.
-
-Hier geht es zu seiner [Homepage](https://www.staff.hs-mittweida.de/~wuenschi). 
-
-Werfen Sie auch einen Blick auf seine weiteren Bücher und Buchbeiträge: [Amazon](https://www.amazon.de/R%25C3%25B6bbe-W%25C3%25BCnschiers/e/B001K6M8OY%3Fref=dbs_a_mng_rwt_scns_share)
-
-Seine wissenschaftlichen Beiträge sind bei [ResearchGate](https://www.researchgate.net/profile/Roebbe-Wuenschiers) zu finden.
-
-Einige Vorträge des Autors können sie auf [YouTube](https://www.youtube.com/results?search_query=wünschiers) sehen, oder hier:
-
+ <table>
+  <tr>
+    <td style="width:20%"><img src="/dummie/rwsmall.png" alt="Cover" width="100px" class="responsive"></td>
+    <td style="width:80%">Röbbe Wünschiers ist promovierter Pflanzenphysiologe (Philipps-Universität Marburg) und habilitierter Genetiker (Universität zu Köln). Er lehrt an der Hochschule Mittweida als Professor für Biochemie/Molekularbiologie und forscht aktiv am Thema genetische Diversität. Dabei wendet sein Team genomische und bioinformatische Methoden bei Schafpudeln, Bienen und Bakterien an. </td>
+  </tr>
+ </table>
+ 
 <details>
-  <summary>Portrait des Autors, 2018</summary>
+  <summary>Videoportrait des Autors, 2018</summary>
 
 <div>
   <div style="position:relative;padding-top:56.25%;">
@@ -25,6 +22,15 @@ Einige Vorträge des Autors können sie auf [YouTube](https://www.youtube.com/re
 </div>
 <br>
 </details>
+
+Hier geht es zu seiner [Homepage](https://www.staff.hs-mittweida.de/~wuenschi). 
+
+Werfen Sie auch einen Blick auf seine weiteren Bücher und Buchbeiträge: [Amazon](https://www.amazon.de/R%25C3%25B6bbe-W%25C3%25BCnschiers/e/B001K6M8OY%3Fref=dbs_a_mng_rwt_scns_share)
+
+Seine wissenschaftlichen Beiträge sind bei [ResearchGate](https://www.researchgate.net/profile/Roebbe-Wuenschiers) zu finden.
+
+Einige Vorträge des Autors können sie auf [YouTube](https://www.youtube.com/results?search_query=wünschiers) sehen, oder hier:
+
 
 <details>
   <summary>Science Slam Vortrag zur Forschung, 2021</summary>
