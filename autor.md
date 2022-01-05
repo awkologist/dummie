@@ -55,7 +55,7 @@ Einige Vorträge des Autors können sie auf [YouTube](https://www.youtube.com/re
 
 <div>
   <div style="position:relative;padding-top:56.25%;">
-    <iframe src="https://www.youtube.com/embed/OL33AcXbOLA" frameborder="0" allowfullscreen
+    <iframe src="https://www.youtube.com/embed/YNoXg9zbrko" frameborder="0" allowfullscreen
       style="position:absolute;top:0;left:0;width:100%;height:100%;max-width:600"></iframe>
   </div>
 </div>
@@ -67,7 +67,7 @@ Einige Vorträge des Autors können sie auf [YouTube](https://www.youtube.com/re
 
   <div>
   <div style="position:relative;padding-top:56.25%;">
-    <iframe src="https://www.youtube.com/embed/OL33AcXbOLA" frameborder="0" allowfullscreen
+    <iframe src="https://www.youtube.com/embed/3LYFxALSOdg" frameborder="0" allowfullscreen
       style="position:absolute;top:0;left:0;width:100%;height:100%;max-width:600"></iframe>
   </div>
 </div>
@@ -75,3 +75,14 @@ Einige Vorträge des Autors können sie auf [YouTube](https://www.youtube.com/re
 </details>
 
 <details>
+  <summary>Egoistische Gene, böse Technik, oder was?, 2018</summary>
+
+  <div>
+  <div style="position:relative;padding-top:56.25%;">
+    <iframe src="https://www.youtube.com/embed/Qh3lPLLcUNg" frameborder="0" allowfullscreen
+      style="position:absolute;top:0;left:0;width:100%;height:100%;max-width:600"></iframe>
+  </div>
+</div>
+<br>
+</details>
+
