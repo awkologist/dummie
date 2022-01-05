@@ -4,19 +4,19 @@ title: Autor Testseite
 permalink: /autorplay/
 ---
 
-now 8
+now 
 
 <table>
   <tr>
-    <td style="width:30%"><img src="/dummie/rwsmall.png" alt="Autor"></td>
-    <td style="width:70%">Röbbe Wünschiers ist promovierter Pflanzenphysiologe (Philipps-Universität Marburg) und habilitierter Genetiker (Universität zu Köln). Er lehrt an der Hochschule Mittweida als Professor für Biochemie/Molekularbiologie und forscht aktiv am Thema genetische Diversität. Dabei wendet sein Team genomische und bioinformatische Methoden bei Schafpudeln, Bienen und Bakterien an. </td>
+    <td style="width:20%"><img src="/dummie/rwsmall.png" alt="Autor" class="responsive"></td>
+    <td style="width:80%">Röbbe Wünschiers ist promovierter Pflanzenphysiologe (Philipps-Universität Marburg) und habilitierter Genetiker (Universität zu Köln). Er lehrt an der Hochschule Mittweida als Professor für Biochemie/Molekularbiologie und forscht aktiv am Thema genetische Diversität. Dabei wendet sein Team genomische und bioinformatische Methoden bei Schafpudeln, Bienen und Bakterien an. </td>
   </tr>
  </table>
  
  <table>
   <tr>
-    <td style="width:30%"><img src="/dummie/cover-dummie.png" alt="Cover" width="100px" class="responsive"></td>
-    <td style="width:70%">Röbbe Wünschiers ist promovierter Pflanzenphysiologe (Philipps-Universität Marburg) und habilitierter Genetiker (Universität zu Köln). Er lehrt an der Hochschule Mittweida als Professor für Biochemie/Molekularbiologie und forscht aktiv am Thema genetische Diversität. Dabei wendet sein Team genomische und bioinformatische Methoden bei Schafpudeln, Bienen und Bakterien an. </td>
+    <td style="width:20%"><img src="/dummie/rwsmall.png" alt="Cover" width="100px" class="responsive"></td>
+    <td style="width:80%">Röbbe Wünschiers ist promovierter Pflanzenphysiologe (Philipps-Universität Marburg) und habilitierter Genetiker (Universität zu Köln). Er lehrt an der Hochschule Mittweida als Professor für Biochemie/Molekularbiologie und forscht aktiv am Thema genetische Diversität. Dabei wendet sein Team genomische und bioinformatische Methoden bei Schafpudeln, Bienen und Bakterien an. </td>
   </tr>
  </table>
  
