@@ -4,7 +4,7 @@ title: Autor Testseite
 permalink: /autorplay/
 ---
 
-now 8
+now 88
 
 <table>
   <tr>
@@ -15,17 +15,11 @@ now 8
  
  <table>
   <tr>
-    <td><img src="/dummie/cover-dummie.png" alt="Cover" width="100" class="responsive"></td>
-    <td>Röbbe Wünschiers ist promovierter Pflanzenphysiologe (Philipps-Universität Marburg) und habilitierter Genetiker (Universität zu Köln). Er lehrt an der Hochschule Mittweida als Professor für Biochemie/Molekularbiologie und forscht aktiv am Thema genetische Diversität. Dabei wendet sein Team genomische und bioinformatische Methoden bei Schafpudeln, Bienen und Bakterien an. </td>
+    <td style="width:30%"><img src="/dummie/cover-dummie.png" alt="Cover" width="100" class="responsive"></td>
+    <td style="width:70%">Röbbe Wünschiers ist promovierter Pflanzenphysiologe (Philipps-Universität Marburg) und habilitierter Genetiker (Universität zu Köln). Er lehrt an der Hochschule Mittweida als Professor für Biochemie/Molekularbiologie und forscht aktiv am Thema genetische Diversität. Dabei wendet sein Team genomische und bioinformatische Methoden bei Schafpudeln, Bienen und Bakterien an. </td>
   </tr>
  </table>
  
-<table>
-  <tr>
-    <td><a href="https://www.wiley-vch.de/de/fachgebiete/naturwissenschaften/allgemeinbildung-gene-genetik-und-gentechnik-fuer-dummies-978-3-527-71746-0"><img src="cover-dummie.png" alt="Buchdeckel" class="responsive"></a></td>
-    <td>Diese Webseite enthält die <a href="quellen">Literaturreferenzen</a> und <a href="gallery">Abbildungen</a> der einzelnen Kapitel. Zudem werden hier <a href="errata">Fehler</a> gesammelt und korrigiert.<br>Auf der <a href="https://www.wiley-vch.de/de/fachgebiete/naturwissenschaften/allgemeinbildung-gene-genetik-und-gentechnik-fuer-dummies-978-3-527-71746-0">Buchhomepage</a> des Verlags finden sich bibliographische Informationen. </td>
-  </tr>
- </table>
 
 Ich (Röbbe Wünschiers) bin promovierter Pflanzenphysiologe (Philipps-Universität Marburg) und habilitierter Genetiker (Universität zu Köln). Ich lehre an der Hochschule Mittweida als Professor für Biochemie/Molekularbiologie und forsche aktiv am Thema genetische Diversität. Dabei wenden wir genomische und bioinformatische Methoden bei Schafpudeln, Bienen und Bakterien an.
 
