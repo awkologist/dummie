@@ -4,11 +4,11 @@ title: Test Bildgallerie
 permalink: /galleryplay/
 ---
 
-2 Klicken Sie auf eine Abbildung, um dass nächste Bild zu sehen. Alternativ können Sie auf die schwarzen Punkte klicken, um vorwärts und zurück zu navigieren.
+90% Klicken Sie auf eine Abbildung, um dass nächste Bild zu sehen. Alternativ können Sie auf die schwarzen Punkte klicken, um vorwärts und zurück zu navigieren.
 
 <h3>Science Slam Vortrag 2021</h3>
 
-<iframe max-width="560" width="auto" height="auto" src="https://www.youtube.com/embed/OL33AcXbOLA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe max-width="600" width="90%" height="auto" src="https://www.youtube.com/embed/OL33AcXbOLA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## level 2
 
